@@ -1,15 +1,12 @@
 """
 main.py - Daily job
-Chạy 1 lần mỗi ngày:
-1. Scrape lại toàn bộ bài từ support.optisigns.com
-2. Phát hiện bài nào mới / đã sửa / không đổi (so sánh hash)
-3. Chỉ upload delta lên ChromaDB
-4. Log kết quả
+1. Scrape support.optisigns.com
+2. Detect delta (hash comparison)
+3. Upload only new/updated to ChromaDB Cloud
 """
 
 import os
 import re
-import glob
 import json
 import time
 import hashlib
@@ -28,9 +25,17 @@ STATE_FILE   = "state/article_state.json"
 CHUNK_SIZE   = 1500
 OVERLAP      = 150
 
-client       = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-chroma_client = chromadb.PersistentClient(path="./chroma_db")
-collection   = chroma_client.get_or_create_collection(name="optibot-kb")
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+
+# Kết nối ChromaDB Cloud thay vì local
+chroma_client = chromadb.HttpClient(
+    ssl=True,
+    host="api.trychroma.com",
+    tenant=os.getenv("CHROMA_TENANT"),
+    database=os.getenv("CHROMA_DATABASE"),
+    headers={"x-chroma-token": os.getenv("CHROMA_API_KEY")}
+)
+collection = chroma_client.get_or_create_collection(name="optibot-kb")
 
 os.makedirs(ARTICLES_DIR, exist_ok=True)
 os.makedirs("state", exist_ok=True)
@@ -69,13 +74,11 @@ def save_state(state):
     Path(STATE_FILE).write_text(json.dumps(state, indent=2))
 
 def delete_chunks(slug):
-    """Xóa toàn bộ chunks của 1 bài trong ChromaDB"""
     existing = collection.get(where={"slug": slug})
     if existing["ids"]:
         collection.delete(ids=existing["ids"])
 
 def upload_article(slug, content, article_url):
-    """Embed và lưu các chunks của 1 bài vào ChromaDB"""
     chunks = make_chunks(content)
     for i, chunk_text in enumerate(chunks):
         result = client.models.embed_content(
@@ -90,7 +93,7 @@ def upload_article(slug, content, article_url):
         )
     return len(chunks)
 
-# scrape section
+# scrape
 print("=" * 50)
 print("BƯỚC 1: Scraping support.optisigns.com...")
 print("=" * 50)
@@ -109,7 +112,7 @@ while url:
 
 print(f"Fetched {len(all_articles)} articles\n")
 
-# detect delta section by comparing hash of content
+# detect delta
 print("BƯỚC 2: Detecting changes...")
 old_state = load_state()
 new_state = {}
@@ -128,10 +131,8 @@ for article in all_articles:
     content = f"# {title}\n\nArticle URL: {html_url}\nLast Updated: {updated_at}\n\n---\n\n{body_md}"
     content_hash = hashlib.sha256(content.encode()).hexdigest()
 
-    # save file .md
     Path(f"{ARTICLES_DIR}/{slug}.md").write_text(content, encoding="utf-8")
 
-    # compare hash
     prev = old_state.get(slug)
     if prev is None:
         new_articles.append((slug, content, html_url))
@@ -146,8 +147,8 @@ print(f"  New     : {len(new_articles)}")
 print(f"  Updated : {len(updated_articles)}")
 print(f"  Unchanged: {len(unchanged)}\n")
 
-# upload delta 
-print("BƯỚC 3: Uploading delta to ChromaDB...")
+# upload delta
+print("BƯỚC 3: Uploading delta to ChromaDB Cloud...")
 
 total_chunks = 0
 
@@ -163,8 +164,7 @@ for slug, content, url in updated_articles:
     total_chunks += chunks
     print(f"  [UPDATED] {slug} ({chunks} chunks)")
     time.sleep(0.3)
-
-# save new state and log 
+    
 save_state(new_state)
 
 print(f"""

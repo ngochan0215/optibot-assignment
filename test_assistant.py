@@ -7,11 +7,16 @@ load_dotenv()
 
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-# connect chroma db
-chroma_client = chromadb.PersistentClient(path="./chroma_db")
+# Kết nối ChromaDB Cloud
+chroma_client = chromadb.HttpClient(
+    ssl=True,
+    host="api.trychroma.com",
+    tenant=os.getenv("CHROMA_TENANT"),
+    database=os.getenv("CHROMA_DATABASE"),
+    headers={"x-chroma-token": os.getenv("CHROMA_API_KEY")}
+)
 collection = chroma_client.get_or_create_collection(name="optibot-kb")
 
-#  system prompt for optibot
 SYSTEM_PROMPT = """You are OptiBot, the customer-support bot for OptiSigns.com.
 • Tone: helpful, factual, concise.
 • Only answer using the uploaded docs.
@@ -23,61 +28,48 @@ def ask_optibot(question: str):
     print(f"Q: {question}")
     print('='*60)
 
-    # Embed questions to vector
     result = client.models.embed_content(
         model="gemini-embedding-2",
         contents=question,
     )
-    question_vector = result.embeddings[0].values
+    question_embedding = result.embeddings[0].values
 
-    # find 5 most relevant chunks in ChromaDB
     search_results = collection.query(
-        query_embeddings=[question_vector],
+        query_embeddings=[question_embedding],
         n_results=5,
     )
 
-    # get relevant chunks and their sources
-    relevant_chunks = search_results["documents"][0]
-    sources         = search_results["metadatas"][0]
+    context_parts = []
+    sources = []
+    for i, (doc, meta) in enumerate(zip(
+        search_results["documents"][0],
+        search_results["metadatas"][0]
+    )):
+        context_parts.append(f"[Đoạn {i+1}]\n{doc}")
+        if meta["source"] and meta["source"] not in sources:
+            sources.append(meta["source"])
 
-    # get up to 3 unique URLs for citation
-    seen_urls = []
-    for meta in sources:
-        url = meta.get("source", "")
-        if url and url not in seen_urls:
-            seen_urls.append(url)
-        if len(seen_urls) == 3:
-            break
+    context = "\n\n".join(context_parts)
 
-    # combine relevant chunks into context
-    context = "\n\n---\n\n".join(relevant_chunks)
+    prompt = f"""Dựa vào các đoạn tài liệu sau đây để trả lời câu hỏi.
 
-    # send to Gemini for answer generation
-    prompt = f"""Use the following documentation to answer the question.
-
-DOCUMENTATION:
+=== TÀI LIỆU THAM KHẢO ===
 {context}
 
-QUESTION: {question}"""
+=== CÂU HỎI ===
+{question}
+
+Sau khi trả lời, liệt kê các Article URL nguồn theo format:
+Article URL: <url>"""
 
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-2.0-flash",
         config={"system_instruction": SYSTEM_PROMPT},
         contents=prompt,
     )
 
-    answer = response.text
-
-    # print answer and sources
-    print(f"\nA:\n{answer}")
-
-    print("\nArticle URL:")
-    for url in seen_urls:
-        print(f"  - {url}")
-
+    print("\nA:")
+    print(response.text)
     print('='*60)
 
-
-# test the bot with a sample question
-if __name__ == "__main__":
-    ask_optibot("How do I add a YouTube video?")
+ask_optibot("How do I add a YouTube video?")

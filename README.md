@@ -108,7 +108,7 @@ Runs once, prints added/updated/skipped counts, exits with code 0.
 
 ---
 
-## Screenshot
+## Screenshot for OptiBot answering "How do I add a YouTube video?"
 
 ![OptiBot answering "How do I add a YouTube video?"](test-bot-assistant.png)
 
