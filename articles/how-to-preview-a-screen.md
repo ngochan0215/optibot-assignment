@@ -13,8 +13,4 @@ Click **Edit**, and the Edit Screen window will pop-up.
 
 Simply click **Preview.**
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360046667794)
-
 You can also preview any screens at any time by clicking on the **Preview** button in the list of screens:
-
-![](https://support.optisigns.com/hc/article_attachments/30707779277971)

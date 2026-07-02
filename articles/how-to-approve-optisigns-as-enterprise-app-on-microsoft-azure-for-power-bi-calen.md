@@ -21,8 +21,6 @@ If you are using a work account from your organization, sometimes, your organiza
 
 In OptiSigns, when click Log In with Microsoft account, it will prompt a window like below.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4403615938579)
-
 If you click "Request approval", this will send an email to your Microsoft Azure Admin to review and approve.
 
 Please enter something meaningful so that they know who you are and what you want to use OptiSigns for. For example:
@@ -43,23 +41,15 @@ As Microsoft Azure Admin, you will receive an email when a user request a 3rd pa
 
 You can click "Review request" to review.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4403616205715)
-
 Or you can log in to Azure portal -> "Azure Active Directory" -> "Enterprise applications" -> "Admin consent requests".
 
 You will see pending approval request there.
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/4403627418643)
-
 Click "Review permission & consent"
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/4403622874387)
 
 Review the permissions requested by OptiSigns. OptiSigns, as a digital signage application, only reads and displays assets. It will not modify, move, or delete objects. See our [Privacy Policy](https://www.optisigns.com/privacy-policy) for more information.
 
 Click **Accept:**
-
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/4403627456531)
 
 **That's all!** You have reviewed and approve OptiSigns to be used as Enterprise App in your organization.
 

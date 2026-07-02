@@ -15,6 +15,4 @@ Hover the design you want to export.
 
 Click Download File.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500001427182)
-
 Depends on your browser, you can right click and click Save to your local PC.

@@ -56,8 +56,6 @@ The OptiSigns app will automatically begin to download.
 
 The OptiSigns app for SSSP is now installed and will automatically launch, showing a pairing code on your device:
 
-![pairing code centered.jpg](https://support.optisigns.com/hc/article_attachments/33310214922387)
-
 Now, you are ready to pair the screen and begin assigning content to it. After you pair your screen, the OptiSigns app will automatically launch each time the SSSP screen is turned on.
 
 *For detailed steps on pairing your screen and publishing content, see our simple* [*set up & add screen guide*](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen)*.*
@@ -93,8 +91,6 @@ Please note:
 
 The OptiSigns app will open and a pairing code will appear:
 
-![pairing code centered](https://support.optisigns.com/hc/article_attachments/33310214922387)
-
 Now you are ready to pair the screen and begin assigning content to it. After you pair your screen, the OptiSigns app will automatically launch each time the SSSP screen is turned on.
 
 For detailed steps on pairing your screen and publishing content, see our simple [set up & add screen guide](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen).
@@ -104,8 +100,6 @@ For detailed steps on pairing your screen and publishing content, see our simple
 ## Limitations
 
 Samsung SSP graphics resolution output is 1080P only. Take precaution when using 4k videos. Samsung SSP can only process a single video at any point of time. Preloading of the next video is not allowed. The transition from video to video is not as smooth as other players that allow video preloading.
-
-![mceclip11.png](https://support.optisigns.com/hc/article_attachments/11126230309651)
 
 #### SSSP 10 (Tizen 6.5)
 

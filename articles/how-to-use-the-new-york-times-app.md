@@ -16,8 +16,6 @@ QR Codes are displayed, which a viewer can scan with their phone to read the rel
 
 Below is an example screenshot of how it look on your screens:
 
-![](https://support.optisigns.com/hc/article_attachments/45517312104595)
-
 ---
 
 ## What You'll Need
@@ -38,35 +36,21 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets**, Click on "App" and add **The New York Times** on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/45517288290451)
-
 Click **The New York Times**:
 
-![](https://support.optisigns.com/hc/article_attachments/45517312106771)
-
 Enter your The New York Times Wall App information:
-
-![](https://support.optisigns.com/hc/article_attachments/45517288293779)
 
 - Name: Name of your The New York Times Wall app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 - Category: Select the region and category that you want to focus on. You can check as many as you want.
 
-![](https://support.optisigns.com/hc/article_attachments/45517312109843)
-
 - Theme: Select Light or Dark Theme.
 - Speed: Select how fast you want the app to scroll or switch between posts. You can also customize your speed if you select Custom.
-
-![](https://support.optisigns.com/hc/article_attachments/45517288297363)
 
 - Font Size: Set the font size for the The New York Times Wall app.
 
 Clicking **Advanced**opens up additional options:
 
-![](https://support.optisigns.com/hc/article_attachments/45517288298515)
-
 - Date Format: Choose from a set of pre-formatted dates, or select a custom date format:
-
-  ![](https://support.optisigns.com/hc/article_attachments/45517288300051)
 
 - Scrolling Strip Font Size: If you put the The New York Times News Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 

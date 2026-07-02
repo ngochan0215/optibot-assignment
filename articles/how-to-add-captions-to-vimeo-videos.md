@@ -21,19 +21,13 @@ For videos that have **auto-generated captions**, then your link should look so
 
 To set this link, you'll need your video's specific ID:
 
-![](https://support.optisigns.com/hc/article_attachments/18498760650643)
-
 This ID can be found on most Vimeo URL links.
 
 Next, you'll simply take this ID and 'plug' it into the URL template here: https://player.vimeo.com/video/**(VIDEO ID HERE)**?autoplay=1&loop=1&texttrack=en
 
 Log into your OptiSigns account and navigate to the **Files/Assets** page and open the apps menu. Search for the **Streaming App**.
 
-![](https://support.optisigns.com/hc/article_attachments/18499078738835)
-
 Now you can take the URL link that you've created for your Vimeo video and plug it in.
-
-![](https://support.optisigns.com/hc/article_attachments/18499133442963)
 
 Click save and that's it! You're ready to push this to your screens!
 

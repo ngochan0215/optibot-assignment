@@ -9,10 +9,6 @@ Whenever our server encounters errors while processing a GraphQL operation, it w
 
 When calling the GraphQL API, you will need to check the response for errors instead of the HTTP status. Below are some examples of an error.
 
-![](https://support.optisigns.com/hc/article_attachments/36565574448659)
-
-![](https://support.optisigns.com/hc/article_attachments/36565574450579)
-
 **Previous Article -** [**Pagination**](https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination)
 
 **Next Article - [Subscription Function in GraphQL](https://support.optisigns.com/hc/en-us/articles/36558469962643-Subscription-Function-in-GraphQL)**

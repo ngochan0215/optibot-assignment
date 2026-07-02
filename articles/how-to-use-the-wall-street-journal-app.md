@@ -14,8 +14,6 @@ The OptiSigns CBC app allows you to display The Wall Street Journal on your digi
 
 QR Codes are displayed, which a viewer can scan with their phone to read the relevant article. The Wall Street Journal can also be displayed as [Scrolling Strip.](https://support.optisigns.com/hc/en-us/articles/360026559613)
 
-![](https://support.optisigns.com/hc/article_attachments/45517575893779)
-
 ---
 
 ## What You'll Need
@@ -36,32 +34,20 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets**, Click on "App" and add **The Wall Street Journal** on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/45517575898387)
-
 Click **The Wall Street Journal**:
 
-![](https://support.optisigns.com/hc/article_attachments/45517616582931)
-
 Enter your Wall Street Journal App information:
-
-![](https://support.optisigns.com/hc/article_attachments/45517616584211)
 
 - Name: Name of your Wall Street Journal app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 - Category: Select the region and category that you want to focus on. You can check as many as you want.
 - Theme: Select Light or Dark Theme.
 - Speed: Select how fast you want the app to scroll or switch between posts. You can also customize your speed if you select Custom.
 
-![](https://support.optisigns.com/hc/article_attachments/45517616589715)
-
 - Font Size: Set the font size for the Wall Street Journal app.
 
 Clicking **Advanced**opens up additional options:
 
-![](https://support.optisigns.com/hc/article_attachments/45517575903763)
-
 - Date Format: Choose from a set of pre-formatted dates, or select a custom date format:
-
-  ![](https://support.optisigns.com/hc/article_attachments/45517575905171)
 
 - Scrolling Strip Font Size: If you put the Wall Street Journal app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 

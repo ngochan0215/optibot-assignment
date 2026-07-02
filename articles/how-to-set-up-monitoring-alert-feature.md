@@ -26,15 +26,9 @@ Monitoring & Alert is a Pro Plus and Enterprise feature that will allow you to r
 Go to Account Settings and click Monitoring Alert.
 Or you can go straight to this page: <https://app.optisigns.com/app/s/monitoring-alert-rules>
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4403292193555)
-
 Click Create New Policy:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4403298566675)
-
 Fill in the settings for your policy:
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4403306261651)
 
 - Alert Policy Name: This is just a name to show in the list of policies since you can create more than one.
 - Alert Rule: how often do you want monitoring rules to run? Our suggestion is 60 minutes. While OptiSigns support monitoring at 15-minute intervals, 60min may help you avoid some false positives due to temporary network, or power issues
@@ -45,8 +39,6 @@ Fill in the settings for your policy:
 - Active: you can turn the rule on/off. Sometimes you may want to turn it off temporarily if you are doing changes like building renovation or network upgrade that you know devices will not be on, so you don't receive too many alerts.
 
 **Here's an example of alert email:**
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/4403306337299)
 
 You can click "Manage Alert Rules" to go to manage alert rule pages and update your rules if needed.
 

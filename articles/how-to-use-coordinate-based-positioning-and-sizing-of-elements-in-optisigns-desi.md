@@ -13,21 +13,13 @@ In this article, we'll guide you on using coordinates to accurately place and si
 
 - Go to **Designer** App by going to your Files/Assets page → Apps
 
-![](https://support.optisigns.com/hc/article_attachments/20428249099923)
-
 - Click on any text or image to access the menu options on the top.
-
-![](https://support.optisigns.com/hc/article_attachments/20428309851923)
 
 Click on '**Position**' on the top right hand corner
 
 By clicking on the '**Position**', this will display the **Position options** on the right hand side of your canvas.
 
-![](https://support.optisigns.com/hc/article_attachments/20428297986195)
-
 Under the **Advanced** section, you will see the following options:
-
-![](https://support.optisigns.com/hc/article_attachments/20428510772371)
 
 - **Left** - Input a numeric value to specify the horizontal position of the selected element within your canvas.
   - By entering a numerical value, you can specify a numerical value to determine how far the element is positioned from the left side of the canvas.

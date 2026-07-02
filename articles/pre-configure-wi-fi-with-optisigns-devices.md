@@ -11,8 +11,6 @@ This is very useful and will save you time in deployment. You can also provide a
 
 To set up Wi-Fi, click the **Want to enter Wi-Fi info?** button on the OptiSigns configuration page - step 2 of checkout:
 
-![](https://support.optisigns.com/hc/article_attachments/52514608817555) Clicking the button will open up a menu where you can enter the information.
-
-![](https://support.optisigns.com/hc/article_attachments/52514739326483)
+ Clicking the button will open up a menu where you can enter the information.
 
 If this information is put in correctly, the OptiStick will automatically log on to your Wi-Fi when plugged in, allowing it to connect directly to OptiSigns and automatically pair the screen. This will let you quickly assign content or playlists to that screen.

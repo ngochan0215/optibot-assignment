@@ -47,8 +47,6 @@ query{
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36564421486483)
-
 **Previous Article - [Tutorial: Creating Schedules and Adding Schedule Items Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36558834998291-Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL)**
 
 **Next Article - [Error Handling](https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling)**

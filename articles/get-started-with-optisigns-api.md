@@ -40,8 +40,6 @@ query{
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36565329200147)
-
 #### **Fetch a specific asset**
 
 If you want to fetch the data following a condition, you can do so by supply an argument. This query will get the asset named "Houston Weather Test" in your account.
@@ -64,8 +62,6 @@ query{
   }
 }
 ```
-
-![](https://support.optisigns.com/hc/article_attachments/36565329203091)
 
 **Previous Article - [Generate and Manage API Key](https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key)**
 

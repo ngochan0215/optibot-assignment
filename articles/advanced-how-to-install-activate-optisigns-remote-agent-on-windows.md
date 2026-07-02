@@ -27,18 +27,12 @@ Download [OptiSigns Remote Agent for Windows](https://links.optisigns.com/a83m).
 
 Run it, and follow the steps to install.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360093737774)
-
 Once installation is finished, go to the OptiSigns portal at [app.optisigns.com](https://app.optisigns.com/)
 
 Click **Edit Screen →** **Advanced → More** to expand device management options.
 Then click **Activate.**
 
-![](https://support.optisigns.com/hc/article_attachments/19187687767443)
-
 It will take a moment to activate (15-30 seconds) to download & install the agent, depending on your internet connection. After successful activation, click **Open** to begin a remote session with your device.
-
-![](https://support.optisigns.com/hc/article_attachments/19187761012883)
 
 That's it, your remote session will be open in a new browser tab for you to use.
 

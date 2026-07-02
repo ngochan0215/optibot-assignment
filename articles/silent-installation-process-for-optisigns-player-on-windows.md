@@ -13,8 +13,6 @@ You can follow this article.
 
 1. Search the **Command Prompt** and **Run as administrator**
 
-![](https://support.optisigns.com/hc/article_attachments/15861776979603)
-
 2. Move the OptiSigns exe file to the folder.
 
 3. Run or go to your folder
@@ -40,8 +38,6 @@ or
 ```
 "OptiSigns Digital Signage Setup 5.6.4" /S /D="c:\[Your Folder Name]\optisigns"
 ```
-
-![](https://support.optisigns.com/hc/article_attachments/15912711216275)
 
 Then it will install in that folder.
 

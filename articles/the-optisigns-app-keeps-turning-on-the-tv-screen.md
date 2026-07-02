@@ -12,8 +12,6 @@ If the OptiSigns app keeps turning on your TV screen, you can follow this articl
 - If using a FireStick Remote, press the three-bar button on your remote to open the side menu.
 - If using an Android TV remote, press the left key on your D-Pad to open the side menu.
 
-![](https://support.optisigns.com/hc/article_attachments/15808346193939)
-
 2. Navigate to "**Keep Awake**" in the side menu of the OptiSigns app.
 
 3. Switch it off.

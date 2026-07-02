@@ -9,8 +9,6 @@ With OptiSigns Pro Plus and Enterprise plan, you can enhance your branding by ma
 
 For example: you can map your sub-domain: **login.abcmedia.com** so that your users can log in and use the portal from **login.abcmedia.com** and use the app like the screenshot below.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500000517302)
-
 #### **Let's jump in and get started!**
 
 **1) Activate your OptiSigns sub-domain (in this example: abcmedia.optisigns.net):**
@@ -21,8 +19,6 @@ Go to the Branding page of your Account Management Settings:
 
 Type in your desired sub-domain for optisigns.net. In this case, we type in "abcmedia".
 Don't worry about optisigns.net, you will map your domain in the next step.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360099399934)
 
 **2) Map CNAME alias for your domain/sub-domain:**
 
@@ -75,8 +71,6 @@ Then click Activate.
 This will trigger the process on OptiSigns side to activate SSL for your sub-domain. This will ensure that your user can use HTTPS: i.e. <https://login.abcmedia.com> to use the app.
 
 This process can take up to 24-48 hours to complete. You will be notified via email once it's done.
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360101613533)
 
 #### **That's all!**
 

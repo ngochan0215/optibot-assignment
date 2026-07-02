@@ -13,19 +13,11 @@ To update your Fire TV OS, Go to Fire TV's setting: **Settings -> My Fire TV -> 
 
 1. Go to Home Page and scroll right to "**Settings**"
 
-![Fire_Stick-1.png](https://support.optisigns.com/hc/article_attachments/1500012115221)
-
 2. Click "**My Fire TV**" in the Settings
-
-![Fire_Stick-2.png](https://support.optisigns.com/hc/article_attachments/1500011814102)
 
 3. Then Select "**About**"
 
-![Fire_Stick-41_About.png](https://support.optisigns.com/hc/article_attachments/1500012115441)
-
 4. Click "**Install Update**"
-
-![Fire_Stick-41_install_update.png](https://support.optisigns.com/hc/article_attachments/1500012115481)
 
 The FireStick update will now start. It may take some times to download and update your Fire Stick
 

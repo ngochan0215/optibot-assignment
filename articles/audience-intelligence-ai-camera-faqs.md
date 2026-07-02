@@ -48,8 +48,6 @@ OptiSigns AI Camera detects:
   - Maps to Child, Young Adult, Adult, Senior Adult
 - Facial Expressions
 
-![](https://support.optisigns.com/hc/article_attachments/48816675717651)
-
 ---
 
 #### **What data does OptiSigns collect? Is it GDPR and SOCII Compliant?**

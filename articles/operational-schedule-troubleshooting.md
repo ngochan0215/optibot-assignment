@@ -72,8 +72,6 @@ Go to **Edit Screen → Advanced → More**:
 
 Click the **Arrow** in the right hand corner of the popup, next to the **Save** option. This will bring up several options. Hit **Send HDMI CEC** or **Send RS232**:
 
-![](https://support.optisigns.com/hc/article_attachments/48241081464467)
-
 This should either turn on or turn off the TV depending on whether the TV is currently on or off. If it does not, keep troubleshooting.
 
 ---
@@ -94,11 +92,7 @@ This is very common and almost always goes back to the device Time Zone. Your fi
 
 This can be done either with the device itself, or remotely (if the device is online). To update it remotely, edit the screen, then hit **Advanced**. You should see the below bar, click the **Time Zone** button:
 
-![](https://support.optisigns.com/hc/article_attachments/48241081465107)
-
 This will open up the **Update Time Zone** screen:
-
-![](https://support.optisigns.com/hc/article_attachments/48241081468307)
 
 Here, simply select the appropriate Time Zone for your device. This should match the Operational Schedule you’ve set to it. Now, they should be aligned.
 

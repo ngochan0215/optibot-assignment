@@ -28,16 +28,10 @@ To display Websites on your digital signs, you can use the **Website app**. Here
 
 On the OptiSigns portal, go to **Assets → Add Asset → Apps.**
 
-![optisigns add asset](https://support.optisigns.com/hc/article_attachments/48787486790547)
-
 Select **Website**:
-
-![optisigns website app selection](https://support.optisigns.com/hc/article_attachments/48787464573587)
 
 Fill in the name and the link (URL) of the site you want to use.
 You can also specify refresh interval if you want the player to automatically refresh the link at certain interval.
-
-![optisigns website app interface](https://support.optisigns.com/hc/article_attachments/48787464575763)
 
 - **Name** - The Name of your Website within OptiSigns. This is for organizational purposes within the OptiSigns portal, and will NOT be displayed on your signs.
 - **URL** - The URL of the website you wish to display.
@@ -58,17 +52,11 @@ You can deploy your new Website app as an individual asset, or as part of a [Spl
 
 To get your new Website asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-![optisigns screens](https://support.optisigns.com/hc/article_attachments/48787464579475)
-
 This brings up the **Edit Screen** tab:
-
-![optisigns edit screen select asset](https://support.optisigns.com/hc/article_attachments/48787464582035)
 
 Here, select **Asset** under Content type, then hit **Select Asset**.
 
 Then, select your created Website Asset:
-
-![optisigns select asset](https://support.optisigns.com/hc/article_attachments/48787464585619)
 
 Now hit **Save**. Your Website asset will now display on screen.
 

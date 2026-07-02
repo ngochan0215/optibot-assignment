@@ -13,5 +13,3 @@ Note:
 
 To use the Show Offline Indicator feature, just select the screen you want to enable this feature for.
 Click **Edit** -> **Advanced** -> check **Show Offline Indicator**
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/12498826962835)

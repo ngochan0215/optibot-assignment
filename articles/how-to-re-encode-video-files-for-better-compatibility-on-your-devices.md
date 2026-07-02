@@ -21,17 +21,11 @@ Download, Run Handbrake.
 
 Drag your video in there.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360055670394)
-
 Select the output format you desired. Amazon, Android or Roku, depend on your device. Pick appropriate video resolution you want too.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360056534533)
 
 Select a location you want the new video file to be output to.
 
 Click Start.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360055670414)
 
 Depend on video length and quality, and how fast your computer is. It could take some time.
 

@@ -42,27 +42,21 @@ Note: If using [Raspberry Pi Imager](https://www.raspberrypi.com/software/)  in
 
 Please click [**here to download Etcher**](https://www.balena.io/etcher/)**.**
 
-![](https://support.optisigns.com/hc/article_attachments/34728529852307)
-
 Open **Etcher software** and select the **OptiSigns .img file** that you just unzipped.
-
-![](https://support.optisigns.com/hc/article_attachments/34728545802259)
 
 Select the **SD card drive.**
 
-**![](https://support.optisigns.com/hc/article_attachments/34728529863699)**
+****
 
 Click **"Flash".**
 
-**![](https://support.optisigns.com/hc/article_attachments/34728545814547)**
+****
 
 After flashing the SD card and booting up, **connect to your network.**
 
 OptiSigns is preinstalled and will auto-start on start-up.
 
 Next you can skip to **step 2) iv)** to pair the screens and start assigning content.
-
-![optisigns app with arrow pointing to hamburger menu](https://support.optisigns.com/hc/article_attachments/360087500074)
 
 ---
 
@@ -95,11 +89,9 @@ Download a fresh image of Raspberry Pi OS. We recommend:
 
 Next, use a tool like [Etcher](https://www.balena.io/etcher/) to flash the image to your SD Card.
 
-**![](https://support.optisigns.com/hc/article_attachments/34728545820691)**
+****
 
 After flashing the SD card and booting up, you can connect to your network by exiting OptiSigns, mousing up to the top of the Desktop, then clicking the **Network** button.
-
-![raspberry pi os with arrow pointing at network option](https://support.optisigns.com/hc/article_attachments/34726239980563)
 
 ### **Step 2: Run/update FUSE**
 
@@ -111,11 +103,7 @@ Raspberry Pi AppImages require FUSE to run. If your existing Raspberry Pi alread
 
 First, open the **Terminal** menu on your Raspberry Pi.
 
-![terminal menu raspberry pi](https://support.optisigns.com/hc/article_attachments/34726239983635)
-
 You'll see this screen:
-
-![raspberry pi open terminal](https://support.optisigns.com/hc/article_attachments/34726272219027)
 
 Now input the following command:
 
@@ -133,21 +121,13 @@ If you are unfamiliar with AppImage, it is a way for a Linux package app to run 
 
 Once Downloaded, open **File Explorer**, right-click on the downloaded file and select **Properties**.
 
-![](https://support.optisigns.com/hc/article_attachments/34728529873043)
-
 In the Properties box. Click the Permissions tab in the **Access Control** **→** **Execute** drop-down. Select **Anyone** on all three options. Then Click OK.
-
-![](https://support.optisigns.com/hc/article_attachments/34728529875987)
 
 After that, double-click on the AppImage file to execute it. In the pop-up, select **Execute**.
 
 Raspberry Pi is not very fast, so it may take a few seconds to load. The app will run in full-screen mode, and generate a pairing code for you to pair with the [app.optisigns.com](http://app.optisigns.com/) portal. You can also move the mouse around, and you will see the top 3 buttons to resize, open side bar menu, or close the app.
 
-![optisigns app with arrow pointing to hamburger menu](https://support.optisigns.com/hc/article_attachments/360087500074)
-
 On the side menu, you can set Orientation, etc. The app has Autostart and Fullscreen on Startup checked as default. So now, the next time the Raspberry Pi starts up, it will run OptiSigns app automatically.
-
-![optisigns app menu open](https://support.optisigns.com/hc/article_attachments/360087500094)
 
 ### **Step 4: Pair your screen with the OptiSigns portal.**
 
@@ -155,19 +135,11 @@ You can now go to our portal at: <https://app.optisigns.com/> to pair the scree
 
 If you don't have an account already, create one, or you can also log in with Google or Facebook account.
 
-![optisigns URL being entered in browser](https://support.optisigns.com/hc/article_attachments/360086552573)
-
 Once you log in Click the "Add screen" button
-
-![optisigns app with arrow pointing to add screen button](https://support.optisigns.com/hc/article_attachments/360086552593)
 
 In this pop-up, type in the Pair Code on your player's screen. Then click Pair
 
-![add screen pair code](https://support.optisigns.com/hc/article_attachments/360086552633)
-
 The screen will change to:
-
-![optisigns app showing paired screen](https://support.optisigns.com/hc/article_attachments/360086552673)
 
 ### Step 5: Use Optisigns Web portal to assign content and manage your screens.
 

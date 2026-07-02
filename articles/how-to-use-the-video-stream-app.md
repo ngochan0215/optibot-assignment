@@ -7,8 +7,6 @@ Last Updated: 2025-09-04T15:17:48Z
 
 #### HLS (HTTP Live Streaming) is one of the most popular streaming protocols. Since it is using HTTP for data streaming, it is widely supported on almost all the devices. Similarly, DASH (Dynamic Adaptive Streaming over Http) can also stream using HTTP. With OptiSigns, you can easily display your HLS,DASH Video Stream on your Digital Screen using the Video Stream app. It is supported on all the devices(Android,FireOS,Windows, Linux, Raspberry Pi etc).
 
-![video-streaming-slider-1.png](https://support.optisigns.com/hc/article_attachments/8369566408083)
-
 This article will guide you through how to create and use the Video Stream app
 
 ### **Let's jump in and get started:**
@@ -17,11 +15,7 @@ Go to our portal: <http://app.optisigns.com/>
 
 Then go to Files/Assets, Click on "App", search for and add the Video Streaming app to your Account.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/8369551736723)
-
 Enter your Video Stream app information:
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/8369552339219)
 
 - Name: Name of your Video Stream app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 - URL: the URL link to the Video Stream link you want to display.

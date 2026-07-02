@@ -18,11 +18,7 @@ For **Android OS devices** such as the OptiSigns Android Stick, Amazon Fire Stic
 1. Press the **three-bar button** on your remote to open the side menu of the OptiSigns app.
 2. Navigate to **Troubleshooting** under the **Advanced Options** section.
 
-![](https://support.optisigns.com/hc/article_attachments/36501689295763)
-
 From there, you can view detailed information about the app’s status and connectivity to assist with troubleshooting.
-
-![](https://support.optisigns.com/hc/article_attachments/36501689296275)
 
 - **Check Internet Connection**: Verifies whether the device has an active internet connection.
 - **Check Connection to API Services**: Tests the device's connection to OptiSigns services.
@@ -50,11 +46,7 @@ For **OptiSigns Pro Player** devices
 1. Press the **three-bar button** on the top right of the OptiSigns app.
 2. Navigate to **About** under the **Advanced Options** section.
 
-![](https://support.optisigns.com/hc/article_attachments/36501802259603)
-
 From there, you can view detailed information about the app’s status with About
-
-![](https://support.optisigns.com/hc/article_attachments/36501802272275)
 
 - **Used Cache:** Displays the amount of cache currently used on the device.
 - **Version:** Shows the **OptiSigns App Version** installed on the device.
@@ -74,11 +66,7 @@ For **Windows OS** devices
 1. Press the **three-bar button** on the top right of the OptiSigns app.
 2. Navigate to **About** under the **Advanced Options** section.
 
-![](https://support.optisigns.com/hc/article_attachments/36501689297171)
-
 From there, you can view detailed information about the app’s status with About
-
-![](https://support.optisigns.com/hc/article_attachments/36501689297939)
 
 - **Used Cache**: Displays the amount of cache currently used on the device.
 - **Version**: Shows the **OptiSigns App Version** installed on the device.

@@ -13,30 +13,18 @@ Click **Start** -> Type "**Task Scheduler**" and open it
 
 Then click **Create Basic task**
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360100967213)
-
 Give it a name (e.g. OptiSigns AI Add-on Autostart)
 
 Then click **Next**
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360098751914)
-
 Next in Trigger section select "**When I Log on**"
 Please do not select other event like When computer start, it may not work.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360100967293)
-
 Next in Action section select "**Start a program**"
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360098752054)
 
 Click Browse and browse to optisigns-ai-detection.exe that you've downloaded.
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360098752114)
-
 Then click **Finish**
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360098752154)
 
 That's all!
 

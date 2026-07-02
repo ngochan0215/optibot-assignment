@@ -42,13 +42,9 @@ curl -s https://release.optisigns.com/optisigns-remote-agent-setup-linux.sh -L |
 
 This will download a script and run installation.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360095986553)
-
 After you see "Starting Remote Control Service ..." you are done!
 
 You can go back to app.optisigns.com to use Remote Control feature now.
-
-![](https://support.optisigns.com/hc/article_attachments/18614175492243)
 
 ## **More Technical Details for optisigns-remote-agent**
 

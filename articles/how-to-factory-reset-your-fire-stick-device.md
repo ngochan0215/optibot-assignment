@@ -19,19 +19,11 @@ To reset your Fire Stick, go to Settings > My Fire TV > Reset to Factory Default
 
 1. From your Fire Stick homepage go to**"Settings"**
 
-![Fire_Stick-1.png](https://support.optisigns.com/hc/article_attachments/1500012113321)
-
 2. Scroll through and click **"My Fire TV"**
-
-![Fire_Stick-2.png](https://support.optisigns.com/hc/article_attachments/1500011812042)
 
 3. Then click **"Reset to Factory Defaults"**
 
-![Fire_Stick-15.png](https://support.optisigns.com/hc/article_attachments/1500011812302)
-
 4. Select **"Reset"**
-
-![Fire_Stick-16.png](https://support.optisigns.com/hc/article_attachments/1500012113661)
 
 5. It will take a few minutes to reset your device.
 

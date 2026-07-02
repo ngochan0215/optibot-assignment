@@ -7,19 +7,9 @@ Last Updated: 2025-08-29T21:33:29Z
 
 This article will show you how to set up and display the Motivational Quote app on your big screens TVs.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360072446473)
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360071265514)
-
 In the Files/Assets and within the Apps section, select the Motivational Quotes within the apps list:
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360071265794)
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360071265654)
-
 The following window will pop-up and you will need to enter the details and quotes you'd like to display:
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360072447053)
 
 - Name: Name of your Motivational Quote app that you wish to see it labeled as within the OptiSigns platform. This name is internal to you only.
 

@@ -42,8 +42,6 @@ You can access our Template library in **four different ways**, as show below:
 
 Once you've accessed the template library, you should be taken to this home page:
 
-![image (17).jpg](https://support.optisigns.com/hc/article_attachments/40159929432851)
-
 1. **New Design:** Click to access a blank canvas and create your own design.
 2. **Your Designs:** Designs that you have created.
 3. **Category:** Our templates are organized into intuitive categories, simplifying your search and catering to diverse needs.
@@ -66,8 +64,6 @@ To learn more about how to use OptiSigns' Designer app to be able to customize y
 Once you're done customizing your template, click the **Save**icon.
 
 You can also directly push this template to your screens or do so from the screens page. Follow [this guide](https://support.optisigns.com/hc/en-us/articles/18988049363859) to learn more about assigning content to your screens.
-
-![](https://support.optisigns.com/hc/article_attachments/42858434514579)
 
 ## That's it!
 

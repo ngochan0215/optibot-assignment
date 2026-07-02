@@ -30,13 +30,7 @@ You can access our Designer app in 2 ways:
 
 - Go to Apps -> click or search for 'Designer'
 
-![](https://support.optisigns.com/hc/article_attachments/18890231633171)
-
 - Click on Templates -> New Design
-
-![](https://support.optisigns.com/hc/article_attachments/18890265104787)
-
-![chrome_FwUnhtgHeX.jpg](https://support.optisigns.com/hc/article_attachments/41677809103251)
 
 ## **Browse for templates in our Template library**
 
@@ -44,17 +38,11 @@ To access our Template Library, simply go to <https://canvas.optisigns.com/>
 
 Or, you can click on 'Templates' on the Files/Assets page
 
-![](https://support.optisigns.com/hc/article_attachments/20427583633811)
-
 Here, you can search and browse to find the template that meets your needs.
 
 To learn more about navigating through the template library, please click [here](https://support.optisigns.com/hc/en-us/articles/20425113117459).
 
-![chrome_gdv9oceqLN.jpg](https://support.optisigns.com/hc/article_attachments/41677774739987)
-
 Click on any template to Preview & click on Use This Template to start editing.
-
-![chrome_nSlftBUhzv.jpg](https://support.optisigns.com/hc/article_attachments/41677809119763)
 
 This will open the Canvas Designer and you can start editing your Design.
 You can rename the design by clicking on the name on top bar:
@@ -68,8 +56,6 @@ You can rename the design by clicking on the name on top bar:
 
 Once a design is created, it is just like any images you upload to your OptiSigns File/Asset.
 You can go to the Dashboard ([app.optisigns.com](https://app.optisigns.com/)) Click Edit Screens and assign your design to it.
-
-![mceclip8.png](https://support.optisigns.com/hc/article_attachments/4404339429139)
 
 For detail guide to set up your screens and assign content, [click here](https://support.optisigns.com/hc/en-us/articles/360016174554).
 
@@ -97,11 +83,7 @@ If you want to add a File or Asset you've already uploaded to OptiSigns to your 
 
 Then select your asset from the Files/Assets pop-up window:
 
-![firefox_SOciR9FaWh.jpg](https://support.optisigns.com/hc/article_attachments/40330733713299)
-
 Once selected, the asset will appear in the Designer.
-
-![firefox_OOa0s1qeXM.jpg](https://support.optisigns.com/hc/article_attachments/40330704264595)
 
 ## **Adding icon/elements to your design**
 

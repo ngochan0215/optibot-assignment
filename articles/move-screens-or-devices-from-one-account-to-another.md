@@ -32,11 +32,7 @@ Click [**here**](#Portal) if you want to use the web portal, which can let you u
 
 If you have access to the device, simply open the **Hamburger menu** on the OptiSigns Player and hit **Unpair**.
 
-![optisigns player unpair option](https://support.optisigns.com/hc/article_attachments/38483285075347)
-
 This will Unpair the device and cause the Pairing Code to display:
-
-![optisigns player pairing code](https://support.optisigns.com/hc/article_attachments/38483285082259)
 
 Now, move on to [**step two**](#Step2).
 
@@ -46,21 +42,13 @@ If you do not have access to your screen or device, or wish to move screens and 
 
 First, go to the OptiSigns Web Portal. Log in to the account with the screen you wish to move. Find it on the **Screens** tab, then hit **Edit Screen → Advanced → More**.
 
-![edit screen advanced more](https://support.optisigns.com/hc/article_attachments/27458240678419)
-
 Click the **Info (i)** button
 
-![info button edit screen](https://support.optisigns.com/hc/article_attachments/27458261252499)
-
 There, you can find the Pairing Code inside the data:
-
-![pairing code data](https://support.optisigns.com/hc/article_attachments/38483257565971)
 
 Write this pairing code down or copy/paste it and do not lose it, or else you will not be able to perform the next step.
 
 Next, remove the device from the current account by backing out of this menu, clicking the **Three Dots**, then hitting **Remove**:
-
-![web portal remove screen](https://support.optisigns.com/hc/article_attachments/38483257569427)
 
 This will remove the device from your current account.
 
@@ -70,11 +58,7 @@ This will remove the device from your current account.
 
 Now, log in to your other account. Navigate to the **Screens**tab, then hit **Add Screen**.
 
-![web portal add screen](https://support.optisigns.com/hc/article_attachments/38483257575315)
-
 Type in the Pairing Code you obtained in Step 1, then hit **Pair**:
-
-![optisigns web portal pair screen menu](https://support.optisigns.com/hc/article_attachments/38483257576595)
 
 Your screen will now be linked to this account.
 

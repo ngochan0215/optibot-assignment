@@ -25,8 +25,6 @@ mutation {
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36564341500819)
-
 #### **2. Rename the paired screen and assign asset/playlist to the screen**
 
 To change the screen name or change the content assigned to the screen, you can use the updateDevice mutation. You will need to supply the screen id retrieved from the above step, and specify how you would like to change the device in the payload.
@@ -48,8 +46,6 @@ mutation {
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36564341502611)
-
 To assign a playlist to the screen, it is about the same as assign asset to screen. Just need to change the currentType to PLAYLIST, and supply the playlist id.
 
 ```
@@ -68,8 +64,6 @@ mutation {
   }
 }
 ```
-
-![](https://support.optisigns.com/hc/article_attachments/36564341504915)
 
 **Previous Article - [Get Started](https://support.optisigns.com/hc/en-us/articles/4414563863827-Get-Started)**
 

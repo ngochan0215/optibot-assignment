@@ -17,11 +17,7 @@ Scrolling Website App is the solution for that, it will allow you to:
 
  Go to File/Asset -> App and select Scrolling Website App:
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360095655314)
-
 Set up your Scrolling Website App:
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360097955053)
 
 - Name: name of your Scrolling Website App, this is only for use in File/Asset list, it will not be displayed on your screen.
 - URL: the URL link to the page you want to display.

@@ -35,13 +35,9 @@ In order to get your Google Ads data into the proper format, you'll need to expo
 
 Now, connect your account as a data source by clicking **Create** then **Data source**:
 
-![](https://support.optisigns.com/hc/article_attachments/48751096773267)
-
 Now click **Search Console** as your Connector.
 
 You'll need to **Authorize** Looker Studio to use your Google Ads data, set the **Account**, then hit **Connect.**
-
-![](https://support.optisigns.com/hc/article_attachments/48751117211155)
 
 Once connected, you'll be able to set your data, including which fields and parameters you'd like to include in Looker Studio. Select whichever you'd like to display.
 
@@ -58,17 +54,11 @@ This guide will assume you choose to use a Template. If you choose Create Report
 
 Back out to the Looker Studio homepage, then select **Search Console Report**.
 
-![](https://support.optisigns.com/hc/article_attachments/48751117214099)
-
 This will generate a sample report. Click **Use My Own Data:**
-
-![](https://support.optisigns.com/hc/article_attachments/48751117218835)
 
 You'll need to Authorize the account. Now, choose the **Sites,** then the **Tables**,select the **Search Type**, then hit **Add.** This will fill in one area of the Template.
 
 Now, set up the report the way you like it. Then, hit **Share**, and make sure the report is set to **Public:**
-
-![](https://support.optisigns.com/hc/article_attachments/48751117219603)
 
 This allows it to be set up, and is necessary for it to display.
 
@@ -78,27 +68,15 @@ This allows it to be set up, and is necessary for it to display.
 
 Once you have your report set up the way you'd like to display it, click **Edit**:
 
-![](https://support.optisigns.com/hc/article_attachments/48751096784275)
-
 Now go to **File → Embed report**.
-
-![](https://support.optisigns.com/hc/article_attachments/48751117228563)
 
 Now you should be on the **Embed Report** screen. Click **Enable embedding**, then make sure it is displaying an Embed Code. Change your **Width** and **Height** to match the resolution of the display you plan to use as a digital sign - we generally recommend 1920x1080 if you're unsure - then click **Copy to Clipboard.**
 
-![](https://support.optisigns.com/hc/article_attachments/48751096788755)
-
 Next, go to the OptiSigns portal. Go to **Assets → Add Asset → Apps.**
-
-![](https://support.optisigns.com/hc/article_attachments/48751096791699)
 
 Select **Google Ads Dashboard:**
 
-![](https://support.optisigns.com/hc/article_attachments/48751117239315)
-
 Now you can set up your Google Ads Dashboard app:
-
-![](https://support.optisigns.com/hc/article_attachments/48751117240979)
 
 - **Name -** The name of your Google Ads Dashboard asset. This is for organizational purposes within OptiSigns only and will not display on your screens.
 - **Embed Code** **-** The Embed Code you retrieved a moment ago should be pasted into this field.
@@ -119,17 +97,11 @@ You can deploy your new Google Ads Dashboard app as an individual asset, or as p
 
 To get your new Google Ads Dashboard asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-![](https://support.optisigns.com/hc/article_attachments/48751117245203)
-
 This brings up the **Edit Screen** tab:
-
-![](https://support.optisigns.com/hc/article_attachments/48751117247123)
 
 Here, select **Asset** under Content type, then hit **Change** next to Selected Asset.
 
 Then, select your created Google Ads Dashboard Asset:
-
-![](https://support.optisigns.com/hc/article_attachments/48751096806163)
 
 Now hit **Save**. Your Google Ads Dashboard asset will now display on screen.
 

@@ -9,7 +9,6 @@ On this day is a small trivia app getting highlights from Wikipedia's database o
 
 Here's how it look.
 \* Not all event has pictures
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500014509322)
 
 ## **Let's jump in and get started:**
 
@@ -19,15 +18,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add On This Day on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/26483772551955)
-
 Click On This Day:
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500014812621)
-
 Enter your On This Day app information:
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/1500014813721)
 
 - Name: Name of your On This Day wall app, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 - Display Mode: Select **Kiosk, Social Wall, or Timeline** You can click Preview button to see how they look.

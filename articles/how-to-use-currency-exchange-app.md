@@ -11,8 +11,6 @@ Data is updated every 15 min.
 
 Here's an example:
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360073357234)
-
 ## **Let's jump in and get started:**
 
 First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
@@ -21,15 +19,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on **Apps**.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360074544133)
-
 Select the Stock App.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360073357254)
-
 Enter the details needed.
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360073357274)
 
 - Name: Identification of your Currency Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 - Title:  Displayed Title that will show on screen. It will be above your list of ticker symbols.

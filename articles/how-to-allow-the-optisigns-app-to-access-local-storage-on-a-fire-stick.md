@@ -15,31 +15,17 @@ Go to Settings > Applications > Manage Installed Applications. Then select OptiS
 
 1. From your Fire Stick homepage go to **"Settings"**.
 
-![access_local_storage-1.png](https://support.optisigns.com/hc/article_attachments/1500001291181)
-
 2. Scroll through and click **"Applications"**.
-
-![access_local_storage-2.png](https://support.optisigns.com/hc/article_attachments/360100121194)
 
 3. Then click**"Manage Installed Applications"**.
 
-![access_local_storage-3.png](https://support.optisigns.com/hc/article_attachments/360100121314)
-
 4. Select OptiSigns app.
-
-![access_local_storage-1.png](https://support.optisigns.com/hc/article_attachments/1500001215462)
 
 5. Select "**Permissions**"
 
-![access_local_storage-5.png](https://support.optisigns.com/hc/article_attachments/360100119734)
-
 6. Default will show DENY. Click "**Storage**".
 
-![access_local_storage-6.png](https://support.optisigns.com/hc/article_attachments/360102300693)
-
 7. Storage shows **ALLOW**.
-
-![access_local_storage-7.png](https://support.optisigns.com/hc/article_attachments/1500001215782)
 
 That's all. Then you can launch the OptiSigns app. Your screen will run your content.
 

@@ -25,8 +25,6 @@ Yes, you try Engage out at no cost for one screen.
 
 Just log in or sign up for a trial if you don't have an account yet, and go to the Engage page in your dashboard.
 
-![](https://support.optisigns.com/hc/article_attachments/23565291422483)
-
 This screen is the only one that will ever have Engage enabled, and it is a one-time assignment. If you remove the Engage feature from that screen, you will not be able to add it to another.
 
 **How much is it?**

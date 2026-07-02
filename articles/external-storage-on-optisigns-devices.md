@@ -12,7 +12,6 @@ If you feel there is not enough storage on your device, you can use the USB driv
 After you plug in the USB drive or micro SD card on your device, go to the **Edit Screen** tab.
 
 Click **Advanced**, then click **More:**
-![](https://support.optisigns.com/hc/article_attachments/20153104606995)
 
 Check "**Use external Storage**" and select Auto Detect in the "**External Storage Path**".
 

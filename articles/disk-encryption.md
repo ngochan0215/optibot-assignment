@@ -36,11 +36,7 @@ In order to use Disk Encryption, you’ll need:
 
 To get started, attach a keyboard to your OptiSigns Player. When booting up, rapidly press the **Up Arrow** to gain access to the Restore mode menu. It should look like this:
 
-![restore mode menu optisigns player](https://support.optisigns.com/hc/article_attachments/40212059658387 "ApplicationFrameHost_DOBZcmN4V9.png")
-
 Here, hit Factory Reset. You’ll be asked whether or not to enable encrypted disks. Type **Yes** and hit Enter.
-
-![enabling encryption restore mode](https://support.optisigns.com/hc/article_attachments/40212059660051 "ApplicationFrameHost_BNOVLclemr.png")
 
 It will ask you to create a password. Create one, then complete the Factory Reset.
 
@@ -51,15 +47,11 @@ It will ask you to create a password. Create one, then complete the Factory Rese
 
 If you bring up Restore mode again, you should see the **Encrypted Boot** option there. This means you have successfully encrypted the OptiSigns Player drive. From now on, it will be booted with the encryption in place.
 
-![restore mode w encryption boot option](https://support.optisigns.com/hc/article_attachments/40212059661971 "ApplicationFrameHost_ZtzOXLbr6Q.png")
-
 ---
 
 ## How to Recover Data from an Encrypted OptiSigns Player
 
 To recover your data, connect the encrypted OptiSigns Player to another device using a USB enclosure or other preferred method. When you try to access the Player’s hard drive, you’ll be prompted to enter the encryption password you set earlier:
-
-![authentication required password input](https://support.optisigns.com/hc/article_attachments/40212027794067)
 
 By inputting this password, you’ll be able to access the data and use it however you see fit.
 

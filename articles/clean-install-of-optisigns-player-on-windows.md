@@ -18,15 +18,11 @@ To perform a clean install first follow these steps to completely remove OptiSig
 
 2) Find OptiSigns, click Uninstall
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500007582301)
-
 3) Delete these folders if they still exist:
 
 - C:\Users\[Your UserName]\AppData\Roaming\OptiSigns Digital Signage
 - C:\Users\[Your UserName]\AppData\Roaming\OptiSigns
 - C:\Users\[Your UserName]\AppData\Roaming\xxxxxxxxxxx.file
-
-![](https://support.optisigns.com/hc/article_attachments/19771754440723)
 
 Then you can download the latest OptiSigns Windows version here:
 

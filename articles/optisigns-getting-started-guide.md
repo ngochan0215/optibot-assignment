@@ -41,8 +41,6 @@ The app will ask if you want to automatically start when the device starts up.
 
 Then, you will see this **pairing screen:**
 
-![OptiSigns_Digital_Signage_wKluheZldi_1_960x540.png](https://support.optisigns.com/hc/article_attachments/29654073549587)
-
 Go to the OptiSigns portal: <https://app.optisigns.com/>
 
 Once logged in, click **Add Screen (1.0)** or **New Screen (2.0).**

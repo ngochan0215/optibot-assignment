@@ -51,14 +51,10 @@ For more on Schedules, see our article on [**Creating and Using Schedules**](htt
 
 **1. Navigate** to [**Screens Management**](https://app.optisigns.com/app/screenManagement), then select **Edit** on your desired screen.
 
-![](https://support.optisigns.com/hc/article_attachments/28598173050899)
-
 **2.**Select **Operational Schedule**, then select your schedule from the dropdown menu:
 
 1. **Default Schedule**: Screen is on, 4:00AM - 11:59PM, every day
 2. **New:** Create your own schedule
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/39032325151379)
 
 **3.**If **Default Schedule** is selected, the time and days can adjusted by clicking **Edit**.
 
@@ -66,11 +62,7 @@ For more on Schedules, see our article on [**Creating and Using Schedules**](htt
 | --- |
 | **Note:** ***Advanced Scheduling** will allow you to create your own schedule.* |
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/39032349012883)
-
 **4.**Select your **Operational Schedule**, assign your desired content, then click **Save.**
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/39032349013267)
 
 **5.** Once saved, your TV power will be on during the operational schedule and will be turned off or display black outside of the operational schedule.
 
@@ -84,18 +76,12 @@ For more on Schedules, see our article on [**Creating and Using Schedules**](htt
 
 **1.**Navigate to your [**Screens Management**](https://app.optisigns.com/app/screenManagement), select your desired screen, click **Operational Schedule**, select **+ New** from the Operational Schedule dropdown menu.
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/39032349024531)
-
 **2.** Select your desired event time by clicking on a time, then drag-and-dropping to create an event.
 
 On the side menu, you can customize your schedule with the following options:
 
-![](https://support.optisigns.com/hc/article_attachments/40739915922835)
-
 1. 1. **Name:** Create a name for your schedule. We ***highly recommend*** doing this so as to differentiate it from other Operational Schedules you may wish to make.
-   2. **Time:**This is the time of your event, click on it to edit the day and time.![](https://support.optisigns.com/hc/article_attachments/28598178564627)
-   3. **Repeat:**Choose whether you'd like your event to repeat from the available options, or create your own custom repeat.![](https://support.optisigns.com/hc/article_attachments/28598178568211)
-   4. **Power:** Choose from On, Off, HDMI-CEC On or Off, or RS-232 On or Off.
+   2. **Time:**This is the time of your event, click on it to edit the day and time.   3. **Repeat:**Choose whether you'd like your event to repeat from the available options, or create your own custom repeat.   4. **Power:** Choose from On, Off, HDMI-CEC On or Off, or RS-232 On or Off.
       - **On:** Sends a signal to turn the screen **ON** during the designated hours. This will be through RS-232 first if available, then through HDMI-CEC. This is our ***recommended option.***
       - **Off:**Sends a signal to turn the screen **OFF**during the designated hours. This will be through RS-232 first if available then through HDMI-CEC.
       - **HDMI-CEC - On:**Sends a command to turn the screen **ON**using HDMI-CEC during the designated hours.
@@ -107,8 +93,7 @@ On the side menu, you can customize your schedule with the following options:
         | --- |
         | **Note:** *Your device will try RS-232 first if available, then HDMI-CEC command to turn off TV/Monitor. Your TV/Monitor model and player needs to support this feature for it to work. Players sold by OptiSigns support HDMI-CEC and RS-232.* |
 
-        ![](https://support.optisigns.com/hc/article_attachments/28598178570771)
-   5. **Mute:**Choose if you'd like your screen to be mute or not if sound is available.
+           5. **Mute:**Choose if you'd like your screen to be mute or not if sound is available.
    6. **Volume:**Adjust the volume of the screen.
    7. **Brightness:** Adjust the brightness of the screen, with 100% being your screen's current brightness.
    8. **RS-232 Commands:** If you have already configured [**RS-232 commands**](https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands), you can select them from this dropdown.
@@ -116,11 +101,7 @@ On the side menu, you can customize your schedule with the following options:
 
 **3.**Make sure to **Save** your event at the bottom so that it will assign the event to the schedule. Then, click "**Apply**" to assign it to your screen.
 
-![](https://support.optisigns.com/hc/article_attachments/28598178573587)
-
 **4.**Once applied, click **Save** to apply and activate all changes to your screens.
-
-![](https://support.optisigns.com/hc/article_attachments/28598173087891)
 
 With that, you've created your Operational Schedule. This schedule can be ***reused as often as you like***, and can be applied to numerous screens. Simply select it from your Edit Screen tab for each screen you'd like to apply it to.
 

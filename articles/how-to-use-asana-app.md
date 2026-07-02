@@ -13,15 +13,9 @@ Go to [app.optisigns.com](https://app.optisigns.com/).
 
 Click Files/Assets, then click Apps
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360103208053)
-
 Then click the Asana app
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500002147342)
-
 Paste the Asana Board URL in.
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360101039534)
 
 On your device, if your Asana Board is private, you will need to enter in username and password to log in.
 You only need to do it once and set remember credential.

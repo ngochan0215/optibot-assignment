@@ -27,27 +27,15 @@ First, please update these two settings on your Roku device.
 
 1. Press the **Home** button on your Roku remote.
 
-![roku-1.jpg](https://support.optisigns.com/hc/article_attachments/1500002179302)
-
 2. Scroll up or down and select **Settings.**
-
-![roku-2.jpg](https://support.optisigns.com/hc/article_attachments/360103238393)
 
 3. Select **Theme** to open the *Theme* menu.
 
-![roku-3.jpg](https://support.optisigns.com/hc/article_attachments/1500002241201)
-
 4. Select **Screensavers**.
-
-![roku-4.jpg](https://support.optisigns.com/hc/article_attachments/360103237233)
 
 5. Select the **OptiSigns app**
 
-![roku-5.jpg](https://support.optisigns.com/hc/article_attachments/1500002179942)
-
 6. Select **Set as screensaver**
-
-![roku-7.jpg](https://support.optisigns.com/hc/article_attachments/1500002241821)
 
 You're ready to go.
 
@@ -58,8 +46,6 @@ Once the Roku is idle, your screen will run Optisigns app.
 1. Open the ***Theme***menu using steps 1-3 above.
 
 2. Select **Screensaver wait time**.
-
-![roku-8.jpg](https://support.optisigns.com/hc/article_attachments/1500002241841)
 
 3. Choose the amount of time to wait.
 

@@ -7,8 +7,6 @@ Last Updated: 2025-08-29T18:58:05Z
 
 In this article, we will show you if you try to present your MacBook Pro to AeriCast Add-on app via OptiSigns app. There is an extra black space on your screen. It is because the MacBook Pro is 16:10 in resolution. Most TV screens are 16:9.
 
-![slides_from_mac_1024__1_.png](https://support.optisigns.com/hc/article_attachments/17112058418323)
-
 Here is the suggestion:
 
 1. Upload the PowerPoint file to Microsoft 365 or Google Slides. Open the file in Microsoft365/Google Slides in the web browser. Go to <https://present.aericast.com> and present the specific browser "tab" of the M 365/Google Slides page, instead of the whole screen. Then resize the browser window to fit the presentation slide content, assuming it's 16:9 based. This will cast the presentation to the entire TV screen without additional blank spaces.

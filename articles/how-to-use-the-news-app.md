@@ -14,11 +14,7 @@ Our News app allows you to display news on your digital signs from a wide range 
 
 Here is a Single view screenshot, and you can view a live example [here](https://social-player.optisigns.com/news/?asset_id=xh1sml3430o20997e):
 
-![](https://support.optisigns.com/hc/article_attachments/360033401174)
-
 Here is another view, you can view a live example [here](https://social-player.optisigns.com/news/?asset_id=jp6ibnvvy42bvxlp9):
-
-![](https://support.optisigns.com/hc/article_attachments/360033401434)
 
 ---
 
@@ -40,15 +36,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets**, Click on "App" and add **News** on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/45187551956115)
-
 Click **News**:
 
-![](https://support.optisigns.com/hc/article_attachments/45187551958931)
-
 Enter your News Wall App information:
-
-![](https://support.optisigns.com/hc/article_attachments/45187587589139)
 
 - Name: Name of your News app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 - Country: Currently we support United States and United Kingdom news.
@@ -56,21 +46,13 @@ Enter your News Wall App information:
 - Display Mode: Select [Single Post View](https://social-player.optisigns.com/news/?asset_id=jp6ibnvvy42bvxlp9), **or** [Social Kiosk View](https://social-player.optisigns.com/news/?asset_id=xh1sml3430o20997e). Click on the links to see a live example.
 - Theme: Select Light or Dark Theme. You can also customize your background color if you select Custom.
 
-![](https://support.optisigns.com/hc/article_attachments/45187587592595)
-
 - Speed: Select how fast you want the app to scroll or switch between posts. You can also customize your speed if you select Custom.
-
-![](https://support.optisigns.com/hc/article_attachments/45187587594131)
 
 - Font Size: Set the font size for the News Wall app.
 
 Clicking **Advanced**opens up additional options:
 
-![](https://support.optisigns.com/hc/article_attachments/45187587595411)
-
 - Date Format: Choose from a set of pre-formatted dates, or select a custom date format:
-
-  ![](https://support.optisigns.com/hc/article_attachments/45187587600915)
 
 - Scrolling Strip Font Size: If you put the News Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 

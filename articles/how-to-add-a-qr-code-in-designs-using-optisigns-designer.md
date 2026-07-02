@@ -7,8 +7,6 @@ Last Updated: 2025-09-04T15:43:33Z
 
 With OptiSigns you can add QR Code directly in the Designer tool without the need of another QR Code generator.
 
-![](https://support.optisigns.com/hc/article_attachments/25127398696339)
-
 You can set the QR Code to:
 
 - Open any Website URL
@@ -25,8 +23,6 @@ You can set the QR Code to:
 Go to  [canvas.optisigns.com](https://canvas.optisigns.com/). Choose your own template from our library of over 1000 free templates or upload your own design. On the left side menu bar, click on 'QR Code,' and then select 'Add QR Code.'
 
 Choose the QR code style for your design, input the necessary information, and click 'Update QR Code' to generate.
-
-![](https://support.optisigns.com/hc/article_attachments/25127398698003)
 
 Finally, don’t forget to click on the save button before closing the design.
 

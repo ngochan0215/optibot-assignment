@@ -47,19 +47,13 @@ To add items from your files/asset to your playlist:
 
 - This action will promptly incorporate the chosen assets into your preferred playlist.
 
-![](https://support.optisigns.com/hc/article_attachments/28565848159763)
-
 ## **Playlist Options and Change Multiple Playlists Settings at Once**
 
 #### **Singular Playlist Options:**
 
 **1.** Click the **gear icon** on the top right-hand side.
 
-![](https://support.optisigns.com/hc/article_attachments/28565848186003)
-
 **2.** The Playlist Option page will then appear:
-
-![](https://support.optisigns.com/hc/article_attachments/28565863777555)
 
 **3.** The following Playlist Option features will be listed below.
 
@@ -128,13 +122,7 @@ To add items from your files/asset to your playlist:
 
 **2.** Click the **gear icon**
 
-![](https://support.optisigns.com/hc/article_attachments/28295074968595)
-
 **3.** The **"Playlist Option"** page will then appear:
-
-![](https://support.optisigns.com/hc/article_attachments/28565863793299)
-
-![](https://support.optisigns.com/hc/article_attachments/28565848229139)
 
 **4.** The features on the "Playlist Options" page are the same as the section above.
 
@@ -154,13 +142,9 @@ A **Playlist Operation Report** offers a summary of the features activated withi
 
 **2.** Next, click the **"Duplicate Playlist"** button.
 
-![](https://support.optisigns.com/hc/article_attachments/28295078791955)
-
 |  |
 | --- |
 | This will create an exact copy of the playlist in your list. |
-
-![](https://support.optisigns.com/hc/article_attachments/28295074977043)
 
 ## **Modify Playlist Colors**
 
@@ -170,19 +154,13 @@ Set a color for the playlist to enhance organization and improve visibility in s
 
 **1.** Delete a playlist by clicking the **three vertical buttons** and then selecting the **"Delete"** button.
 
-![](https://support.optisigns.com/hc/article_attachments/28295078794771)
-
 **2.** **Confirm** the deletion.
-
-![](https://support.optisigns.com/hc/article_attachments/28295074980115)
 
 ## **External Playlist Sharing**
 
 **1.** Select the desired playlist.
 
 **2.** Click the **"Share Link"** button second from the left-hand side.
-
-![](https://support.optisigns.com/hc/article_attachments/28295078803347)
 
 To learn more about this feature, you can click [here](https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users)
 

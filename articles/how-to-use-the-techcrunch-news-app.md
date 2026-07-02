@@ -16,8 +16,6 @@ QR Codes are displayed, which a viewer can scan with their phone to read the rel
 
 Below is an example screenshot of how it look on your screens, you can view a live example [here](https://social-player.optisigns.com/techcrunch/?asset_id=md9JJe4Abuidwem2x):
 
-![](https://support.optisigns.com/hc/article_attachments/45516216033171)
-
 ---
 
 ## What You'll Need
@@ -38,32 +36,20 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets**, Click on "App" and add **TechCrunch** on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/45516237886867)
-
 Click **TechCrunch**:
 
-![](https://support.optisigns.com/hc/article_attachments/45516237891347)
-
 Enter your TechCrunch Wall App information:
-
-![](https://support.optisigns.com/hc/article_attachments/45516237896851)
 
 - Name: Name of your TechCrunch Wall app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 - Category: Select the region and category that you want to focus on. You can check as many as you want.
 - Theme: Select Light or Dark Theme.
 - Speed: Select how fast you want the app to scroll or switch between posts. You can also customize your speed if you select Custom.
 
-![](https://support.optisigns.com/hc/article_attachments/45516216045331)
-
 - Font Size: Set the font size for the TechCrunch Wall app.
 
 Clicking **Advanced**opens up additional options:
 
-![](https://support.optisigns.com/hc/article_attachments/45516237900179)
-
 - Date Format: Choose from a set of pre-formatted dates, or select a custom date format:
-
-  ![](https://support.optisigns.com/hc/article_attachments/45516216052627)
 
 - Scrolling Strip Font Size: If you put the TechCrunch News Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 

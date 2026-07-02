@@ -16,8 +16,6 @@ QR Codes are displayed, which a viewer can scan with their phone to read the rel
 
 Below is an example screenshot of how it look on your screens:
 
-![](https://support.optisigns.com/hc/article_attachments/45516868511635)
-
 ---
 
 ## What You'll Need
@@ -38,32 +36,20 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets**, Click on "App" and add **The Guardian** on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/45516845734035)
-
 Click **The Guardian**:
 
-![](https://support.optisigns.com/hc/article_attachments/45516868514707)
-
 Enter your The Guardian Wall App information:
-
-![](https://support.optisigns.com/hc/article_attachments/45516845740947)
 
 - Name: Name of your The Guardian Wall app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 - Category: Select the region and category that you want to focus on. You can check as many as you want.
 - Theme: Select Light or Dark Theme.
 - Speed: Select how fast you want the app to scroll or switch between posts. You can also customize your speed if you select Custom.
 
-![](https://support.optisigns.com/hc/article_attachments/45516868519059)
-
 - Font Size: Set the font size for the The Guardian Wall app.
 
 Clicking **Advanced**opens up additional options:
 
-![](https://support.optisigns.com/hc/article_attachments/45516845747475)
-
 - Date Format: Choose from a set of pre-formatted dates, or select a custom date format:
-
-  ![](https://support.optisigns.com/hc/article_attachments/45516845748243)
 
 - Scrolling Strip Font Size: If you put the The Guardian News Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 

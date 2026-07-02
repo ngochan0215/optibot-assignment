@@ -16,8 +16,6 @@ This can help turning your existing Sports Bars, Waiting Room TVs, etc. into rev
 
 Localized, relevant ads like below is proven to increase sales.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500008223921)
-
 #### **Before we get started, a few points on how to best use these type of pop in ads:**
 
 - Make your ads visible, but obstructive. While you can place the ads anywhere, it's better to place in the corners (bottom right, top left, etc.) instead of middle of the screen.
@@ -41,11 +39,7 @@ Log in & Click File/Assets
 Click Apps
 Find Live TV with Ads app and click on it
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500008225161)
-
 Set up configuration for your Live TV with Ads app:
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500008225441)
 
 - Name: Name of your Asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 - Ads Playlist: If you have more than 1 ads, you can make a playlist as your ads collection.

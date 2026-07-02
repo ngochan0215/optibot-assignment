@@ -14,11 +14,7 @@ You can adjust these settings by:
 - First, click on your profile name in the top right corner of your OptiSigns webpage.
 - Then, click on the "Preferences" tab in the drop-down menu.
 
-![chrome_KqTF9UeA8h.png](https://support.optisigns.com/hc/article_attachments/28115918025875)
-
 - You will then be directed to the Preferences page. To access the Close & Nav Bar settings, scroll down to the bottom of the page.
-
-![chrome_6gpZoPUEQG.png](https://support.optisigns.com/hc/article_attachments/28115918027155)
 
 **Close & Nav Bar Styler:**
 

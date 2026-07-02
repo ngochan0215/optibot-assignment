@@ -45,8 +45,6 @@ When a meeting starts — or someone wakes the room — the display returns to t
 
 In OptiSigns, open **Devices** in the top navigation, then in the left sidebar under **Room Integrations**, click **Teams Rooms**. If you haven't connected yet, you'll see the two methods side by side.
 
-![OptiSigns Teams Rooms — the two ways to connect: Signage URL (recommended) and Service Principal](https://support.optisigns.com/hc/article_attachments/52411707887891)
-
 Pick your method below.
 
 ---
@@ -61,15 +59,11 @@ On the **Signage URL** card, click **Mint URLs** (shown above).
 
 In the **New Signage URL** dialog, give the URL a **Name** (for example, your room or location — `Atlanta Lobby`). The optional **Target label** is just a note to help you remember where you'll paste it; it doesn't control anything. Click **Next**.
 
-![The New Signage URL dialog — name the URL, then click Next](https://support.optisigns.com/hc/article_attachments/52411718641811)
-
 ### Step 2 — Assign content
 
 Clicking **Next** creates the URL and opens the **Signage URLs** tab (the page now shows **Connected · Signage URLs only**). On the new row, click **+ Assign content**.
 
 In the **Assign content** dialog, choose a **Content Type** — **Asset**, **Playlist**, or **Schedule** — then pick the specific item to play. Click **Save**.
-
-![The Assign content dialog — pick a Content Type, choose the item, then Save](https://support.optisigns.com/hc/article_attachments/52411676905875)
 
 OptiSigns copies the new signage URL to your clipboard and shows the paste instructions. (You can reopen them any time with **Show me how to paste** on the Signage URLs tab.)
 
@@ -81,8 +75,6 @@ In the **Paste your Signage URL in Teams Rooms portal** dialog, click **Open Tea
 2. Click **Add source** and give it a clear name (matching your room or group).
 3. Choose **Custom URL**, paste the OptiSigns URL, then **Review → Finish**.
 4. Select the new source → **Assign to devices** → pick your Teams Room(s) → **Apply**.
-
-![The paste-instructions dialog — copy the URL, then click Open Teams Admin Portal](https://support.optisigns.com/hc/article_attachments/52411723276051)
 
 Within about 30 seconds the room fetches the URL and your content appears during idle. Start a test meeting — content should clear instantly when the meeting connects.
 
@@ -107,8 +99,6 @@ This connects a **read-only** Microsoft Entra app so OptiSigns can discover and 
 2. Add the two read-only scopes OptiSigns requires: **`TeamworkDevice.Read.All`** (reads your Teams Rooms inventory) and **`TeamworkAppSettings.Read.All`** (reads device health — online/offline, peripheral issues). Tip: click **Copy all scopes** on the OptiSigns setup screen and paste them straight into the Entra picker.
 3. Click **Grant admin consent for <your tenant>**. Both should show **Granted**.
 
-![OptiSigns Service Principal setup steps and the two required read-only Graph scopes — use Copy all scopes](https://support.optisigns.com/hc/article_attachments/52411718955411)
-
 ### Step 3 — Create a client secret
 
 1. In the app, open **Certificates & secrets → Client secrets → + New client secret**.
@@ -125,8 +115,6 @@ Back on the OptiSigns **Teams Rooms** page, on the **Service Principal** card, c
 - **Client Secret** — from Step 3
 
 Click **Test Connection**. OptiSigns validates the credentials against Microsoft Graph and shows your tenant name on success — then **Save** lights up. Click **Save**.
-
-![The Add Service Principal dialog — fill the four fields, then Test Connection before Save](https://support.optisigns.com/hc/article_attachments/52411702980627)
 
 Within a few minutes your Teams Rooms appear in the **Devices** tab, each with its model and live online/offline status.
 

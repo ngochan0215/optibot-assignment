@@ -7,8 +7,6 @@ Last Updated: 2025-09-02T20:33:55Z
 
 If your Pro Player looks like the image below, read on. If it does not, read on [**Remote Commands for the OptiSigns Pro Player (Gen 3)**](https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux).
 
-![Pro Player.png](https://support.optisigns.com/hc/article_attachments/38310905084947)
-
 ## OptiSigns Pro Player Gen 2 Commands
 
 You can install/update OptiSigns player on your OptiSigns Pro Player with 1 command line script:

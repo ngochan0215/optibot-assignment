@@ -9,8 +9,6 @@ Sometimes you have content behind a website that requires log-in, such as your p
 
 It can either be a Browser Popup or a Gated Website (like below)
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360103797493)
-
 The solution is simple, you just need to:
 
 - Copy the link to the page, and dashboard you need to display.
@@ -21,14 +19,8 @@ The solution is simple, you just need to:
 
 That's it, the credential will be saved, and every time OptiSigns plays the link, it will show the secured information inside the website.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360049022994)
-
 Enter the Website URL:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500002766422)
-
 Note: Browser Popup kind of password is not supported for Android, FireStick player. Only Windows, Linux, MacOS, Raspberry Pi, and ChromeOS are supported. The app will pop up a window for you to enter password:
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500002766482)
 
 You can also prefill a password in your URL for the Browser Popup case such as: <https://guest:guest@jigsaw.w3.org/HTTP/Basic/>

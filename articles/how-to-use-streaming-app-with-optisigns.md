@@ -15,11 +15,7 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App". And click the Streaming App.
 
-![](https://support.optisigns.com/hc/article_attachments/16364071877779)
-
 Enter your Streaming App information:
-
-![](https://support.optisigns.com/hc/article_attachments/16364077889299)
 
 - Name: Give your Streaming App a name. This is for displaying in your asset list only.
 - URL: Put your streaming URL here.

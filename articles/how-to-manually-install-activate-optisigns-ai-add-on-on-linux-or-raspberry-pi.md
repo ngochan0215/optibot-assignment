@@ -39,8 +39,6 @@ curl -s https://links.optisigns.com/ai-add-on-linux-install -L | sh
 
 This will download a script and run the installation.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360099273994)
-
 After you see "Starting OptiSigns AI Detection Service ..." you are done!
 
 You can go back to [app.optisigns.com](https://app.optisigns.com/app/screenManagement) to use the AI feature now

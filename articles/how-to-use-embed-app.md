@@ -21,11 +21,7 @@ To use embed code with OptiSigns, all you need to do is copy the code and paste 
 - Click Apps
 - Click Embed
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360047683073)
-
 Then give it a name and paste your embed code there.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360046811634)
 
 Now, you can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc like any other assets. If you need more information on how to set up & assign content to your screens [click here](https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-set-up-Digital-Signs-with-OptiSigns-and-Amazon-Fire-TV).
 

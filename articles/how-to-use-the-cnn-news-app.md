@@ -16,8 +16,6 @@ QR Codes are displayed, which a viewer can scan with their phone to read the rel
 
 Here is a Single view screenshot. View a live example [here](https://social-player.optisigns.com/cnn/?asset_id=QK3KMwFDtpmAS8p47):
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360054403534)
-
 ---
 
 ## What You'll Need
@@ -38,32 +36,20 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets**, Click on "App" and add **CNN** on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/45189027306771)
-
 Click **CNN**:
 
-![](https://support.optisigns.com/hc/article_attachments/45189041510419)
-
 Enter your CNN Wall App information:
-
-![](https://support.optisigns.com/hc/article_attachments/45189041515923)
 
 - Name: Name of your CNN Wall app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 - Category: Select the region and category that you want to focus on. You can check as many as you want.
 - Theme: Select Light (default CNN red) or Dark Theme.
 - Speed: Select how fast you want the app to scroll or switch between posts. You can also customize your speed if you select Custom.
 
-![](https://support.optisigns.com/hc/article_attachments/45189041520659)
-
 - Font Size: Set the font size for the CNN Wall app.
 
 Clicking **Advanced**opens up additional options:
 
-![](https://support.optisigns.com/hc/article_attachments/45189041521811)
-
 - Date Format: Choose from a set of pre-formatted dates, or select a custom date format:
-
-  ![](https://support.optisigns.com/hc/article_attachments/45189041526547)
 
 - Scrolling Strip Font Size: If you put the CNN News Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 

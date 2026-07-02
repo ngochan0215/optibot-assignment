@@ -18,8 +18,6 @@ Using OptiSigns Emergency Feed app, you can have OptiSigns listen to an RSS feed
 
 When the emergency is over, the feed returns blank, or no more matching content. OptiSigns will return to playing signage content as usual.
 
-![emergency feed example image](https://signagecloud-prd.s3.amazonaws.com/editor/5f1595d6020cce00136d5164/f37643a3bef24cb59f514684aa518c3d_5f1595d6020cce00136d5164.jpg)
-
 ---
 
 ## What You'll Need
@@ -34,19 +32,11 @@ When the emergency is over, the feed returns blank, or no more matching content.
 
 On the OptiSigns portal, go to **Assets → Add Asset → Apps**.
 
-![open apps tab optisigns](https://support.optisigns.com/hc/article_attachments/47770620403731)
-
 Select **Emergency Feed:**
-
-![select emergency feed app](https://support.optisigns.com/hc/article_attachments/29815767093395)
 
 You'll see the following screen:
 
-![emergency feed app setup](https://support.optisigns.com/hc/article_attachments/47770635827731)
-
 These are the options, and what they do. Any edits made to these options should be automatically reflected in the **Preview** pane on the right. The **Preview** can be displayed in either **Landscape** or **Portrait** format.
-
-![emergency feed app base options](https://support.optisigns.com/hc/article_attachments/47770620405907)
 
 - **Name**: Name of your assets. This is for organizational purposes and will not be displayed on your screens.
 - **RSS URL:** The URL of the Emergency RSS feed you wish to display.
@@ -60,18 +50,13 @@ These are the options, and what they do. Any edits made to these options should 
 
 Click **Theme Settings** to expand the field and provide a slate of new options:
 
-![emergency feed app theme settings](https://support.optisigns.com/hc/article_attachments/47770620407699)
-
 - **Background Color:** Determines the background color. Can be chosen with Hex Code or via color picker:
-  ![color picker optisigns](https://support.optisigns.com/hc/article_attachments/47770620408211)
-- **Text Color:** Determines the text color. Can be chosen with Hex Code or via color picker.
+  - **Text Color:** Determines the text color. Can be chosen with Hex Code or via color picker.
 - **Background Image:** Lets you choose a Background image for your RSS feed. When **Custom** is selected, it will give you the opportunity to **Choose Photo:**
-
-  ![background image option expanded](https://support.optisigns.com/hc/article_attachments/47770620411539)
 
   This photo must already exist as an asset within OptiSigns.
 - **Font Size:** Choose between Default Font Size, or Custom. When Custom is selected, will provide a new option: **Custom Font Size**.
-  **![font size option expanded](https://support.optisigns.com/hc/article_attachments/47770635844371)**
+  ****
   - **Custom Font Size:** Choose your font size.
 - **Text Alignment/Position:** Choose the alignment and position of the RSS text.
 - **Max Number of Rows:** Choose the maximum number of rows to dedicate to the Emergency Feed.
@@ -79,8 +64,6 @@ Click **Theme Settings** to expand the field and provide a slate of new options:
 ### Advanced
 
 Click **Advanced** to expand the field and provide a slate of additional options:
-
-![emergency feed app advanced options](https://support.optisigns.com/hc/article_attachments/47770635845523)
 
 - **Duration (seconds):** How long to display each feed item before moving on to the next.
 - **Title Tag:** Message title from the RSS XML feed. The default is <title> - you can change it if your feed is different

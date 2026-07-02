@@ -5,8 +5,6 @@ Last Updated: 2026-06-15T19:14:16Z
 
 ---
 
-![OptiSigns Room Integrations — one place to manage and push digital signage to all your meeting room systems](https://support.optisigns.com/hc/article_attachments/52113329657491)
-
 Your meeting rooms sit idle most of the day. OptiSigns **Room Integrations** put that screen time to work: when a room is between meetings, OptiSigns plays your content — announcements, dashboards, branding, menus, or emergency messages — right on the room display, and clears it the instant a meeting starts.
 
 No extra hardware. No app to install on the room. You connect your meeting-room platform once, and your rooms appear in OptiSigns ready to receive signage.

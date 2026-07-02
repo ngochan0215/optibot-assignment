@@ -9,11 +9,9 @@ Last Updated: 2026-04-08T13:41:37Z
 
 It displays images related to the city in the Location field, making your experience more personalized and engaging.
 
-**![](https://support.optisigns.com/hc/article_attachments/29465595838867)**
+****
 
 *Image of a clear day in New York City, New York, USA.*
-
-![image_2024_05_18T02_55_53_353Z.png](https://support.optisigns.com/hc/article_attachments/29528700970771)
 
 *Image of a rainy day in Houston, Texas, USA.*
 

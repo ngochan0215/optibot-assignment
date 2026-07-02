@@ -17,8 +17,6 @@ Nowadays, digital security is critical in the world because both businesses and 
 
 You can set up the Two-factor Authentication on the Personal Profile page: <https://app.optisigns.com/app/s/personal-profile>
 
-![](https://support.optisigns.com/hc/article_attachments/18381478387987)
-
 There are two authentication verification options to set up two-factor authentication in your OptiSigns account.
 
 - Enable Authentication App
@@ -28,15 +26,9 @@ There are two authentication verification options to set up two-factor authentic
 
 You can Scan the QR code with a security or authentication app like Google Authenticator, Authy or Duo. Download one from the App Store or Play Store.
 
-![](https://support.optisigns.com/hc/article_attachments/18381549512211)
-
 Then enter the 6-digit code from your authentication app to verify it.
 
-![](https://support.optisigns.com/hc/article_attachments/18381534789139)
-
 You can download the Backup Codes.
-
-![](https://support.optisigns.com/hc/article_attachments/18381551861779)
 
 You can turn off the **Authentication App** at any time, you can just click the "**Turn Off**" button.**Enable**
 
@@ -46,15 +38,9 @@ You can turn off the **Authentication App** at any time, you can just click the 
 
 Enter the phone number that you would like to use.
 
-![](https://support.optisigns.com/hc/article_attachments/18381666338067)
-
 Enter the 6-digit code from your text message (SMS) to verify it.
 
-![](https://support.optisigns.com/hc/article_attachments/18381693381011)
-
 You can download the Backup Codes.
-
-![](https://support.optisigns.com/hc/article_attachments/18381755259155)
 
 You can turn off the **Text Message (SMS)** at any time, you can just click the "**Turn Off**" button.
 

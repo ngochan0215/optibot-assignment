@@ -14,8 +14,6 @@ There is more cost effective way to is to use [USB HUB Adaptor](https://www.amaz
 - You can use this to connect your USB wireless keyboard or mouse with your Fire Stick.
 - You can use this to connect your USB wired keyboard or mouse with your Fire Stick.
 
-![USB_HUB_Adaptor.png](https://support.optisigns.com/hc/article_attachments/360093195114)
-
 Note: You need to switch to OTM on USB HUB Adaptor
 
 You're ready to go.

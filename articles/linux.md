@@ -33,15 +33,9 @@ To install OptiSigns on Linux, you'll need:
 
 Once you've got the latest AppImage downloaded on your system, locate it wherever it's been downloaded.
 
-![optisigns appimage linux](https://support.optisigns.com/hc/article_attachments/37230635291283)
-
 Right click on the AppImage and select **Properties**.
 
-![appimage properties](https://support.optisigns.com/hc/article_attachments/37230646236179)
-
 In the Properties box, ensure the Permissions are set to **Read & Write** and the "Executable as Program" slider is **On**.
-
-![optisigns appimage properties menu](https://support.optisigns.com/hc/article_attachments/37230646238995)
 
 We're not done. Before we can launch the application, we'll need to configure the proper libraries.
 
@@ -49,15 +43,9 @@ Now return to where your AppImage is stored and double click it. If you are runn
 
 You'll be asked to confirm Install, hit **Yes**.
 
-![install linux appimage window](https://support.optisigns.com/hc/article_attachments/37230646240915)
-
 The app will run in full screen mode and generate a pairing code for you to pair with the [app.optisigns.com](http://app.optisigns.com/) portal. If you move the mouse around, you will see the top 3 buttons to **resize**, **open** **side bar menu,** or **close** the app.
 
-![optisigns player pair code](https://static.wixstatic.com/media/e48f7f_3ee0de008d8b4f038c0de10250e80749~mv2.png/v1/fill/w_925,h_522,al_c,q_90,usm_0.66_1.00_0.01/e48f7f_3ee0de008d8b4f038c0de10250e80749~mv2.webp)
-
 On the side menu, you can set Orientation, etc. The app will have the AutoStart and Fullscreen on Startup features checked as default. However, more setup is needed if you'd like the app to AutoStart.
-
-![optisigns player side menu](https://static.wixstatic.com/media/e48f7f_2fc697a5f1224304b2a6b23835a38355~mv2.png/v1/fill/w_925,h_518,al_c,q_90,usm_0.66_1.00_0.01/e48f7f_2fc697a5f1224304b2a6b23835a38355~mv2.webp)
 
 ---
 
@@ -75,8 +63,6 @@ To do this, open your **Terminal** and type:
 sudo apt install libfuse2
 ```
 
-![linux terminal libfuse2 install command](https://support.optisigns.com/hc/article_attachments/37230646245011)
-
 The necessary libraries will automatically install, and now the OptiSigns AppImage can be launched.
 
 Now, there are a few optional things you can do to further optimize OptiSigns on Ubuntu 24.04 or later, including:
@@ -92,11 +78,7 @@ To enable AutoStart, we will need to alter the startup configuration on Ubuntu. 
 
 Open up **Startup Application Preferences** and you should see something like this:
 
-![linux startup programs](https://support.optisigns.com/hc/article_attachments/37230635312147)
-
 The issue here is that the OptiSigns Digital Signage will not work after repeated startups. To get it working, hit **Add.**
-
-![linux startup add program](https://support.optisigns.com/hc/article_attachments/37230635315091)
 
 Name the file whatever you please and input any Comment you want. The **Command:** line is what's important here: put the same path as the basic OptiSigns autostart program, but add:
 
@@ -134,11 +116,7 @@ sudo apt install gnome-shell-extension-manager
 
 From here, head to **Settings.** Go to **Ubuntu Desktop**, and make sure **Auto-hide the Dock** is switched to ON.
 
-![linux settings auto hide dock](https://support.optisigns.com/hc/article_attachments/37230646253459)
-
 Next, open up the Extension Manager. Here, click **Browse**, then search for the "Hide Top Bar" extension. Click **Install**.
-
-![linux extension manager hide top bar](https://support.optisigns.com/hc/article_attachments/37230893391763)
 
 Now your video hardware acceleration should be enabled.
 
