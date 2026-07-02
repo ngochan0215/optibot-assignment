@@ -92,20 +92,11 @@ Runs once, prints added/updated/skipped counts, exits with code 0.
 
 ---
 
-## Deploy Daily Job on Railway
-
-1. Push this repo to GitHub (use a non-obvious repo name, not "optisigns-*").
-2. Go to [railway.app](https://railway.app) → **New Project** →
-   **Deploy from GitHub repo** → select this repo.
-   Railway auto-detects the `Dockerfile`.
-3. Under **Variables**, add: `GEMINI_API_KEY=your-key-here`
-4. Under **Settings → Cron Schedule**, set: `0 7 * * *` (runs daily at 07:00 UTC).
-5. Railway runs the container once per schedule and exits automatically.
+## Deploy Daily Job using Github Actions
 
 **Link to daily job logs:**
-> _Add your Railway deployment logs URL here after deploying_
-> Example: `https://railway.app/project/<id>/deployments`
-
+> https://github.com/ngochan0215/optibot-assignment/actions/runs/28564097803/job/84688111460
+> Note: As I use the free trial of gemini, while coding the assigment, I accidentally used all the quota, thus the log will always show error due to quota exceeded error of gemini-api-key. I hope you can understand that.
 ---
 
 ## Screenshot for OptiBot answering "How do I add a YouTube video?"
