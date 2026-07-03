@@ -16,8 +16,30 @@ import requests
 from markdownify import markdownify as html_to_md
 from google import genai
 import chromadb
+import logging
+from google.genai.errors import ServerError, ClientError
 
+# load environment variables
 load_dotenv()
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s"
+)
+
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("httpcore").setLevel(logging.WARNING)
+logging.getLogger("chromadb").setLevel(logging.WARNING)
+
+required_env = [
+    "GEMINI_API_KEY",
+    "CHROMA_API_KEY",
+    "CHROMA_TENANT",
+    "CHROMA_DATABASE",
+]
+
+for key in required_env:
+    if not os.getenv(key):
+        raise RuntimeError(f"Missing environment variable: {key}")
 
 # config
 ARTICLES_DIR = "articles"
@@ -74,23 +96,72 @@ def save_state(state):
     Path(STATE_FILE).write_text(json.dumps(state, indent=2))
 
 def delete_chunks(slug):
-    existing = collection.get(where={"slug": slug})
+    existing = collection.get(
+        where={"slug": slug},
+        include=[]
+    )
     if existing["ids"]:
         collection.delete(ids=existing["ids"])
 
+# Embed text with retry logic
+def embed_with_retry(text, max_retries=5):
+    # embed multiple chunks in one request to reduce API calls
+    for attempt in range(max_retries):
+        try:
+            result = client.models.embed_content(
+                model="gemini-embedding-2",
+                contents=text,
+            )
+            return result.embeddings
+
+        except ServerError:
+            wait = 2 ** attempt
+            logging.warning(
+                f"Gemini unavailable. Retry after {wait}s..."
+            )
+            time.sleep(wait)
+
+        except ClientError as e:
+            print(type(e))
+            print(dir(e))
+            print(e)
+            if e.status_code == 429:
+                wait = min(60, 2 ** attempt)
+                logging.warning(
+                    f"Rate limited. Retry after {wait}s..."
+                )
+                time.sleep(wait)
+
+            else:
+                raise
+
+    raise RuntimeError("Embedding failed after retries.")
+
 def upload_article(slug, content, article_url):
     chunks = make_chunks(content)
-    for i, chunk_text in enumerate(chunks):
-        result = client.models.embed_content(
-            model="gemini-embedding-2",
-            contents=chunk_text,
-        )
-        collection.add(
-            ids=[f"{slug}_chunk_{i}"],
-            embeddings=[result.embeddings[0].values],
-            documents=[chunk_text],
-            metadatas=[{"source": article_url, "slug": slug, "chunk": i}]
-        )
+    embeddings = embed_with_retry(chunks)
+    ids = []
+    vectors = []
+    documents = []
+    metadatas = []
+
+    for i, embedding in enumerate(embeddings):
+        ids.append(f"{slug}_chunk_{i}")
+        vectors.append(embedding.values)
+        documents.append(chunks[i])
+        metadatas.append({
+            "source": article_url,
+            "slug": slug,
+            "chunk": i
+        })
+
+    collection.add(
+        ids=ids,
+        embeddings=vectors,
+        documents=documents,
+        metadatas=metadatas
+    )
+
     return len(chunks)
 
 # scrape
@@ -103,6 +174,7 @@ url = "https://support.optisigns.com/api/v2/help_center/en-us/articles.json?per_
 
 while url:
     resp = requests.get(url, timeout=30)
+    resp.raise_for_status()
     data = resp.json()
     for article in data["articles"]:
         if not article.get("draft"):
@@ -153,17 +225,39 @@ print("BƯỚC 3: Uploading delta to ChromaDB Cloud...")
 total_chunks = 0
 
 for slug, content, url in new_articles:
-    chunks = upload_article(slug, content, url)
-    total_chunks += chunks
-    print(f"  [NEW]     {slug} ({chunks} chunks)")
-    time.sleep(0.3)
+
+    try:
+        chunks = upload_article(slug, content, url)
+        total_chunks += chunks
+        print(f"[NEW] {slug} ({chunks} chunks)")
+        save_state(new_state)
+
+    except Exception as e:
+        logging.exception(
+            f"Failed uploading article: {slug}"
+        )
+
+    time.sleep(0.5)
 
 for slug, content, url in updated_articles:
-    delete_chunks(slug)
-    chunks = upload_article(slug, content, url)
-    total_chunks += chunks
-    print(f"  [UPDATED] {slug} ({chunks} chunks)")
-    time.sleep(0.3)
+
+    try:
+        delete_chunks(slug)
+        chunks = upload_article(
+            slug,
+            content,
+            url
+        )
+        total_chunks += chunks
+        print(f"[UPDATED] {slug} ({chunks} chunks)")
+        save_state(new_state)
+
+    except Exception:
+        logging.exception(
+            f"Failed updating article: {slug}"
+        )
+
+    time.sleep(0.5)
     
 save_state(new_state)
 
