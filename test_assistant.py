@@ -63,7 +63,7 @@ Sau khi trả lời, liệt kê các Article URL nguồn theo format:
 Article URL: <url>"""
 
     response = client.models.generate_content(
-        model="gemini-2.0-flash",
+        model="gemini-2.5-flash",
         config={"system_instruction": SYSTEM_PROMPT},
         contents=prompt,
     )
