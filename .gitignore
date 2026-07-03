@@ -6,6 +6,6 @@ __pycache__/
 chroma_db/
 articles/
 
-state/
+state/*.gitkeep
 !state/.gitkeep
 !articles/.gitkeep

@@ -122,6 +122,7 @@ def embed_with_retry(text, max_retries=5):
             time.sleep(wait)
 
         except ClientError as e:
+            print(f"ClientError: {e}")
             print(type(e))
             print(dir(e))
             print(e)

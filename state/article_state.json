@@ -1,0 +1,1618 @@
+{
+  "using-the-japan-earthquake-app": {
+    "hash": "012315e7df90a956ee39d45905684bacef61c3758f5fcdb59ae6fa4614e498de",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
+  },
+  "how-to-display-a-snowflake-dashboard-with-optisigns": {
+    "hash": "1c9127aa40afeb020c08322c071f45d2b01c0dc3803c40e352afe4e949ebd141",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns"
+  },
+  "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app": {
+    "hash": "8a4b119b1d6cafdf0bdd16db394c12ec4f5002f837a29f3f302332cf3933f4da",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App"
+  },
+  "connect-google-meet-hardware-to-optisigns-digital-signage": {
+    "hash": "60d8f2f5368ed849234828a0d847b53911b46168317f00040947e2b1a3147b91",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage"
+  },
+  "connect-microsoft-teams-rooms-to-optisigns-digital-signage": {
+    "hash": "3e3b2574c7f4ec2868e3c793a68c7fd2c2e18de479af2780ae72ec965705b614",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage"
+  },
+  "room-integrations-turn-your-meeting-rooms-into-digital-signage": {
+    "hash": "90ad13f6a03a4f6d786f7606ca9936de703a54e652cd0e9c622abf997e4ec95f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage"
+  },
+  "connect-zoom-rooms-to-optisigns-digital-signage": {
+    "hash": "bd8663658c1893bc3a6007f066f54f8c924260c685472aa47e9345c97bfc7b9c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage"
+  },
+  "connect-cisco-webex-rooms-to-optisigns-digital-signage": {
+    "hash": "e4b5a7e27022b1299391117d51e0b0a4a8e175c1f24e9a06bdea028528d7a77f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage"
+  },
+  "chromeos-pwa-instructions": {
+    "hash": "a01ca4b5ff938bc577cdc168d026f9e0ea30b95ad1eb0f0ae1b72e11865985e6",
+    "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions"
+  },
+  "how-to-use-the-google-ads-dashboard-app": {
+    "hash": "f28c45c0de7b4225c81901e8f440da8a34340ccf164737469333d5799e3f482b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App"
+  },
+  "how-to-use-the-google-search-console-app": {
+    "hash": "96fc9bf103baedefd8cc8f3c5bd76aa5553e9d80b71681f78421acdb3d29f708",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48656950622227-How-to-Use-the-Google-Search-Console-App"
+  },
+  "how-to-use-the-youtube-dashboard-app": {
+    "hash": "65133605d02c33bca702ae475f6a24696f2bef2497d2efecb51018698ce5e584",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48626115821459-How-to-Use-the-YouTube-Dashboard-App"
+  },
+  "operational-schedule-troubleshooting": {
+    "hash": "41e4ac5f92bb7c9e830eba611ad7bd39ddb417e6d0ef06829f2df553144ab611",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting"
+  },
+  "how-to-use-the-optidev-app": {
+    "hash": "545149e0801cc7af69edd47f38842fe15dba89cae5b1bd577a6a74edc5d621f8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App"
+  },
+  "how-to-set-up-an-outlook-calendar-app-with-shared-permissions": {
+    "hash": "8c149fd2820001a4e428cc947089222969a9a11717a3195ab074419c6b6beabb",
+    "url": "https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions"
+  },
+  "using-an-enterprise-network-802-1x-with-optisigns": {
+    "hash": "ae3738fd84d2a21bd31e2aa9c1284b2dbd50d38c87c398366e0ec058d7910f68",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns"
+  },
+  "user-management-example-chain-restaurant-or-retail-store-with-multiple-locations": {
+    "hash": "9cabe9edceb70568a984d79ababa17fdf8a8d0e23f68073a7cb83e4a77b6cfdd",
+    "url": "https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations"
+  },
+  "getting-started-with-designer": {
+    "hash": "65d52460f30a73d324a5e1d0aa1522d4bb33fef424710b26925672ceb7f64728",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer"
+  },
+  "designer-2-0-new-features": {
+    "hash": "7920d6971c41c2d7c31403ea527d2cdee1c536a76b9ae148e1f48e4619c041ab",
+    "url": "https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features"
+  },
+  "optisigns-pro-promax-player-troubleshooting-guide": {
+    "hash": "7d759776625a8240ab78c07326d17bb058bfab3d6aab08b5601c3f83e4258665",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40736654972563-OptiSigns-Pro-ProMax-Player-Troubleshooting-Guide"
+  },
+  "how-to-play-licensed-background-music-on-digital-signs-with-optisound": {
+    "hash": "b68fd42459f2281c330684a8a61a2a062fcd331968d64921fcef7ddb5a7fb631",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound"
+  },
+  "disk-encryption": {
+    "hash": "0a1c2903c954667d9c0895a2e114bd670eae2377290ad44cbf742ca009bfa675",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption"
+  },
+  "optistick-troubleshooting-guide": {
+    "hash": "942efb0079c29ad4e79304ff5737c99f2d750a412ad9848823087629cf9f0252",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide"
+  },
+  "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-s": {
+    "hash": "88d4babf3cbaa88e2f157c72da203816f2b81c646e8ccb1e5ca6ec5949c6e7de",
+    "url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick"
+  },
+  "how-to-use-the-tableau-app": {
+    "hash": "ffdc73a2305923dee5392c649a0c43bf14cacb20941152a81a521800856260bc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App"
+  },
+  "handle-oauth-authentication-using-api-gateway-pre-request-configuration": {
+    "hash": "5913ff91dd2fce6b8203b50996447d32ed7ea1c1853f7ac471dcf160eaf4de80",
+    "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration"
+  },
+  "tagging-in-optisigns": {
+    "hash": "b321ce4d0530ddbf3f690716c50c5dd772e1cc3b284f2cbed2db8f3770b57049",
+    "url": "https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns"
+  },
+  "getting-started-with-an-optisigns-free-trial": {
+    "hash": "b08260504cb59a8b039a9d397dd5ad02970a65eeac3fe8030b9ec97ef8583cf0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial"
+  },
+  "how-to-use-optisigns-with-microsoft-teams-rooms": {
+    "hash": "1e91dca8b46a5750e3ab0656b88197dc33e5d3f690364658c7ea248b0168b62b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms"
+  },
+  "how-to-access-the-troubleshooting-page-of-the-optisigns-player": {
+    "hash": "0b4a7d2525ad5c1a7457217d7d238c416f036513ba516647a9776f6bf0dd3d7c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player"
+  },
+  "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments": {
+    "hash": "d5937265881358e89ec871ab1c38462cec2b254554637baeeee947f449b8b010",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments"
+  },
+  "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens": {
+    "hash": "196278a5496086acff74739b9f5a25663e42441814f0cbcc8b78be29e0e405a7",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens"
+  },
+  "accepted-payment-methods": {
+    "hash": "76b99d7907bab6689fcf3dac11c504bace54e5a44eb8448a7ce351158764e0db",
+    "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods"
+  },
+  "what-do-i-get-with-an-optisigns-free-plan": {
+    "hash": "e9ed6c4c1589586a5a8ef23af3c383230f4eb6b7d450c4f886aba67d232afca8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan"
+  },
+  "making-a-video-wall-with-optisigns-video-wall-app": {
+    "hash": "520a35cf33db3fd4494bbc438f646b2b2e223830a38793fe0941606bddb7dac4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App"
+  },
+  "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns": {
+    "hash": "a00f2ea517d7c3c9991abcd43f602c18752c377f49d2226ad7b8626f7e0e9580",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns"
+  },
+  "display-salesforce-dashboards-with-mfa-using-web-scripting": {
+    "hash": "98950d8c1b1a1ff3d2c9a3bc3228e0ee1e8e59c26da127e9e8755d6199bf68ff",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting"
+  },
+  "how-to-order-a-preconfigured-optisigns-android-player-device": {
+    "hash": "11d3ab395bbda218ede5882e4b3051a79d86ce98cefb74b468f6dd31d10e268b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device"
+  },
+  "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync": {
+    "hash": "543df3f19a3d34b28939e81c2ffb49d76458808b990215d6230cd38172311673",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync"
+  },
+  "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices": {
+    "hash": "0277424d1368c1601702f79208cdbff3e56f72eed60b2b09afad85640bba8cca",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices"
+  },
+  "getting-started-with-touch-screen-kiosks": {
+    "hash": "6ee21a0f503292e1bb8481c7a4c1234a673ea0784f63daef32598dfabf410e68",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks"
+  },
+  "how-to-use-toast-api-data-with-optisigns": {
+    "hash": "01c103789c1d52bffb226cf39a8a9be09f61a18c6675420ea51000be3cde149a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns"
+  },
+  "enabling-lock-down-mode-on-touch-screen-devices": {
+    "hash": "d601521fcb13b71540e9c57c24153f5bf2cfb00eedc9214bbe4b8d052b873103",
+    "url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices"
+  },
+  "how-to-use-the-mobile-app-for-remote-control": {
+    "hash": "3f376e9b9875c6ebf66ebc7e7e0032c9a17dfc2afc7363cc35f9387ba79a95d0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control"
+  },
+  "guide-for-creating-content-with-optisigns": {
+    "hash": "9ffba2033d36a2b106b144be6773e267cf62b6061af9b32680c3cf5145b17686",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns"
+  },
+  "list-of-supported-cities-for-weather-wall-city-themes": {
+    "hash": "bea61cd966e37c487ee6230d8ff843243e64a2df29d677abb3bfae9c4893da39",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes"
+  },
+  "how-to-clear-cache-on-a-brightsign-player": {
+    "hash": "791dbec8356e7ca2039c49f85565d22764f6a7f48d385e7aead1e257fcdd6716",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29238381023123-How-to-Clear-Cache-on-a-BrightSign-Player"
+  },
+  "how-to-create-an-attract-screen-for-your-kiosk": {
+    "hash": "f528eec0b6b6d53ed3e2367cc2615a7d8e42cecd7b45f4bd62ba58b3b62122af",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29232460955539-How-to-Create-an-Attract-Screen-for-Your-Kiosk"
+  },
+  "how-to-set-up-dynamic-data-mapping-with-optisync": {
+    "hash": "c650288912a028e25c09929956473e2856ab232510d943b95e5105748194a8ec",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync"
+  },
+  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232": {
+    "hash": "44a7466febd389cba58c5dc405158f3462aa903a0b4bfe761742b52ba926f516",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232"
+  },
+  "performance-stability-issues-on-android-devices-and-best-practices": {
+    "hash": "0ec4cbf846d0fc87db9256d6cf40278ff9d634664c95700df45b0a3a31c3f2b2",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28427819992979-Performance-Stability-issues-on-Android-devices-and-Best-Practices"
+  },
+  "samsung-tizen-tvs-troubleshooting-guide": {
+    "hash": "78dac96d66a35ae872a18971a70d3da04f70bfcacac4af4d0bbd430488b1d474",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide"
+  },
+  "roku-troubleshooting-guide": {
+    "hash": "48f1d6c5687fb52195d94cbe3436e94c36302fcaf2bdff5c3622cdb2b0f3c70f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28421615261971-Roku-Troubleshooting-guide"
+  },
+  "how-to-create-use-playlists": {
+    "hash": "bc47e0398a0d2b2daec16369c6cc4def5596102e5309398607a359e4eccd7aa9",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists"
+  },
+  "how-to-use-qr-overlay-app-in-engage": {
+    "hash": "2edbb6a4fc31a285744675403a2e0a012bc17692b711bcd75fd46ef5f9764934",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28140190892307-How-to-Use-QR-Overlay-App-in-Engage"
+  },
+  "how-to-change-close-nav-bar-styler-preferences": {
+    "hash": "20f410e0cd7a946ea9e07ec0997b8e3cb63b091d57d7c9a22da31234e55c8e44",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Close-Nav-Bar-Styler-Preferences"
+  },
+  "ai-camera-app-quick-start": {
+    "hash": "543617393147e405f9c6d50a2cda9ed074d5e8371177a79c6e8e5b79d06dc5e5",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start"
+  },
+  "amazon-tv-firestick-troubleshooting-guide": {
+    "hash": "041c38e9afe5f7cb7bdcfbfeba5b81cf174d1acaad90ca2f95c011257ff3a6dd",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide"
+  },
+  "move-screens-or-devices-from-one-account-to-another": {
+    "hash": "2313badf1bdfba915a23d584a283409ed62ff78738c3e2541423b52385f270cc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27458261258387-Move-Screens-or-Devices-from-One-Account-to-Another"
+  },
+  "how-to-use-icloud-calendar-with-optisigns": {
+    "hash": "d1df1c14789ec86af0de57c5830fd7fe052220c2d1839e6a0f4ca99a0fd44fce",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns"
+  },
+  "optistick": {
+    "hash": "1ff742a491c0704209ebf10cf4eebbc0f8dbc84c2b4089c97751c6b9ff36467c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick"
+  },
+  "how-to-lockdown-ipad-single-app-with-guided-accessibility": {
+    "hash": "ca78817f92884999e4372bcf2530d82a6878188f0cf4caf09701fe7eee607a5d",
+    "url": "https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility"
+  },
+  "how-to-add-a-qr-code-in-designs-using-optisigns-designer": {
+    "hash": "e1550da3957decfa7b2e41053ba12717023acc6015bf09e95d34c6f7f6cb1fbc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/25127398699667-How-to-add-a-QR-Code-in-designs-using-OptiSigns-Designer"
+  },
+  "what-are-feeds-and-how-to-use-it": {
+    "hash": "8b259f27c04e58c05e94f2b94806fb755a5844da98187dc33a94b36893b304ac",
+    "url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-What-Are-Feeds-and-How-to-Use-It"
+  },
+  "how-to-get-google-review-link": {
+    "hash": "6d3b1ff8c4613ae5d224ff3c60a4e9159dd558ea0f776924096e3bbe6f34e4d3",
+    "url": "https://support.optisigns.com/hc/en-us/articles/23629657318547-How-to-get-Google-Review-link"
+  },
+  "how-to-use-check-in-app-with-sms-follow-up": {
+    "hash": "372b219c29b016681e25a383483df5ae03a1cf5eced389670fde511fd9b0154a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up"
+  },
+  "engage-plan-faqs": {
+    "hash": "dc2d2fefc864dfefe70087cb3dda000470382f378f0f47426c850a9c63746f7c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs"
+  },
+  "how-to-enable-auto-start-on-fireos-8-devices-like-amazon-fire-tv-stick-4k-gen-2-": {
+    "hash": "ea81a61100d865d759001bd13588845e4ccf00afa3ddaee6f4ed20308cc605a8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/23274673797139-How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model"
+  },
+  "how-to-setup-aericast-meet-wireless-video-conferencing": {
+    "hash": "8b0df2aaf1b1a4114f335fbf33bb3af020268b5288f046f49639a415101954e1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing"
+  },
+  "how-to-integrate-api-and-publish-api-data-via-optisync": {
+    "hash": "ce2121136e15834dfdd3be48e255f6cb2e801be807b21ce99f10933c78085825",
+    "url": "https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync"
+  },
+  "advanced-playlist-item-playback-control-campaign-management": {
+    "hash": "055ae0b6a218794a211575ad78334b89fecb4a896de0a66808c2038d1f3ec8b2",
+    "url": "https://support.optisigns.com/hc/en-us/articles/22474034993043-Advanced-Playlist-Item-Playback-Control-Campaign-Management"
+  },
+  "how-to-share-playlist-and-folder-with-external-users": {
+    "hash": "df5aafd0d0088e176749a97d7737228eda812c68e631ead38388b0223f9e17e8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users"
+  },
+  "how-to-use-content-tags-in-the-playlist": {
+    "hash": "7e2ad2af7d7439acb420f277121cbbd5f2b3e66883bb1f9fa4ace5082fa6f3c3",
+    "url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist"
+  },
+  "your-facebook-page-doesn-t-show-in-the-dropdown-list": {
+    "hash": "857300ab2acbe3e27e2765397b8dabba0a3986ea4d04f718e1bb762b1c264fc4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/20750060900883-Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List"
+  },
+  "how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-desi": {
+    "hash": "33b8fa82cd4642376ea2bb4055729732f55911619395fa7b6f15b59663c3b82b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/20428606424723-How-to-Use-Coordinate-Based-Positioning-and-Sizing-of-Elements-in-OptiSigns-Designer"
+  },
+  "navigating-through-optisigns-template-library": {
+    "hash": "6e1baed5fcb0281e7519ed88c8420cfbf026cc5c3f1fbfa6b72c85fa2f41fe25",
+    "url": "https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library"
+  },
+  "external-storage-on-optisigns-devices": {
+    "hash": "959bfdcd1d29c90eca05bb1bd685610c2463a8db7014d643011eac3d4574b3f3",
+    "url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices"
+  },
+  "how-to-control-and-schedule-playlist-items": {
+    "hash": "3dffc0777a5d9bca6fea65d7335088544d846f889b4a85660fd446b3dac7312b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/20062273670163-How-to-Control-and-Schedule-Playlist-Items"
+  },
+  "how-to-use-secured-dashboard-app": {
+    "hash": "51a3feab2ce7e436761bdc1a223cdb4e01745fa6d3cb4be3682a1012d01e44ca",
+    "url": "https://support.optisigns.com/hc/en-us/articles/19589190970771-How-to-use-Secured-Dashboard-App"
+  },
+  "how-to-use-yammer-app-on-optisigns": {
+    "hash": "9d458bdb30f373408014045a1e6b9936c2170958bde234e3854b97ba8eca914a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-use-Yammer-app-on-OptiSigns"
+  },
+  "push-contents-to-your-screens": {
+    "hash": "fe95c5e2d2fb033fad17d4bb46a9bd56b7d78ba3780958cdce2bb8f1e4c2bef8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18988049363859-Push-Contents-to-your-Screens"
+  },
+  "optisigns-getting-started-guide": {
+    "hash": "9b4e13450ca63d6cad7cc9cd409516a7f995d27641abe0a2cbd35ce46005026c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide"
+  },
+  "how-to-keep-optisigns-running-on-fire-stick": {
+    "hash": "5429601c44f2547f956d1ca5f3eba5fd0423ccc5dc67c97d341a98cfd8c704ed",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18470994953363-How-to-keep-OptiSigns-running-on-Fire-Stick"
+  },
+  "how-to-customize-the-thumbnail-of-files-assets-and-folders": {
+    "hash": "8a2e324aee5aec04729af111b633292c6d8cbc214df2ff66b07c9ceba174a232",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18399492388371-How-to-Customize-the-Thumbnail-of-Files-Assets-and-Folders"
+  },
+  "how-to-configure-multi-factor-authentication-with-your-optisigns-account": {
+    "hash": "9a92cd6780694bc521c779717e93fce9911f0809662792745f470387ee3290a0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18381542133779-How-to-Configure-Multi-Factor-Authentication-with-your-OptiSigns-account"
+  },
+  "samsung-smart-signage-platform-sssp-supported-model-list": {
+    "hash": "4908e2658f30b3e87110fdfd8c05576488d8bc6fd1e2233177c05d8cf0076067",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List"
+  },
+  "how-to-create-a-content-library-kiosk": {
+    "hash": "caf716a75e83bcb519a26787721123104a9773cf2683f01b3bebc11d627fd86e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17604055961747-How-to-Create-a-Content-Library-Kiosk"
+  },
+  "event-logging-and-analytics-for-external-communication-rs-232": {
+    "hash": "f89fc59c82b5231d6f4a80d6049afc626bb5e068138e38f3acc745287bf7604b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17342932920211-Event-logging-and-analytics-for-External-Communication-RS-232"
+  },
+  "display-powerpoint-google-slides-in-whole-screen-when-casting-from-macbook-pro": {
+    "hash": "fad6f4d1efe9af3cc9419d529873420200d57a1990f3740ddb44c814a178d772",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17112492659475-Display-PowerPoint-Google-Slides-in-whole-screen-when-casting-from-MacBook-Pro"
+  },
+  "how-to-use-streaming-app-with-optisigns": {
+    "hash": "24f67cb27d303be828e3fc02c52e3652fa96b14869174dfb73ae452ada9edac1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns"
+  },
+  "silent-installation-process-for-optisigns-player-on-windows": {
+    "hash": "a9fc92e2bc11cfd75c2e4b633970a8ea254083f34baf5b3ba662bc518961abbc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows"
+  },
+  "the-optisigns-app-keeps-turning-on-the-tv-screen": {
+    "hash": "597ff5b785cfd998451bf20b8c3d30d7bfb6855881f1c284d283089ca2e96974",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15808407287315-The-OptiSigns-app-keeps-turning-on-the-TV-screen"
+  },
+  "how-to-design-kiosk-apps-using-kiosk-designer-pro": {
+    "hash": "d82fcf880a8d6af32fe72e9a7def0a59468ead4285eaac3038178db84b250f30",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro"
+  },
+  "cannot-find-the-optisigns-app-on-your-samsung-smart-tv": {
+    "hash": "76c627e4aff954505be6cf82130277743ef51c3a06388728021bbda307415bea",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV"
+  },
+  "build-integration-using-optisigns-enterprise-app": {
+    "hash": "ccc00ad177c8e5719436abbebb2d6eb8ccd4b58b6ef5d7127078e7abc1b75514",
+    "url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integration-Using-OptiSigns-Enterprise-App"
+  },
+  "optisigns-iot-sensor-add-on-quick-start": {
+    "hash": "109ac0b0c4c40a75ca52fdd93277270b03f91ca13ceaceb1feb9319895590dd4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start"
+  },
+  "show-hide-downloading-status-on-your-player": {
+    "hash": "7c6526acdc9ba8c1c3cdcee7273084c94225937042685014409221c41bf5f70c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12947300131731-Show-Hide-downloading-status-on-your-Player"
+  },
+  "what-if-the-optisigns-app-does-not-auto-start-on-an-android-tv": {
+    "hash": "588676daf60d89a51edb19845fd6ad31678581bcac71a6e169d4a0159e7857e8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/11412877112595-What-if-the-OptiSigns-app-does-not-auto-start-on-an-Android-TV"
+  },
+  "how-to-put-live-tv-on-your-screens-with-optisigns": {
+    "hash": "80642ee11b5db06ee48510e6cee3b2c6255b5945b5bb43b21070cc003b329406",
+    "url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns"
+  },
+  "data-residency-and-optisigns": {
+    "hash": "1f965db2836332ac8b56fbab3ab5a99b9260e043b450f85eb2ddd39a265566e3",
+    "url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns"
+  },
+  "using-rs-232-to-schedule-tv-power-on-off-or-other-commands": {
+    "hash": "a14acc6c3437835cdcc2f536360ca9800f69d998ada62379ad8ede06757a8c3e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands"
+  },
+  "how-to-get-the-mac-address-on-your-media-player": {
+    "hash": "309b5267e57fb88730698a4e000d4feb85dc70287bbe9bd27db0010b0e7b4789",
+    "url": "https://support.optisigns.com/hc/en-us/articles/8099928867475-How-to-get-the-MAC-Address-on-your-media-player"
+  },
+  "how-to-hide-certain-templates-categories-in-designers": {
+    "hash": "0d29bc0fd4de995fde55861d0cc8e78010006679ecb7333b5491753588a693c2",
+    "url": "https://support.optisigns.com/hc/en-us/articles/7865572050195-How-to-hide-certain-templates-categories-in-Designers"
+  },
+  "host-your-html-js-or-create-your-own-web-app-with-hosted-website": {
+    "hash": "e47c8e6fc5ebbdd1154a6edf29514f0e2aae8737ba024db61d92bc28767704b0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website"
+  },
+  "using-eyedrop-feature-to-select-color-in-designer-app": {
+    "hash": "fae4331b89639d9c48d06a00568ed968a5541180f9f81f68883a8d8fd295d963",
+    "url": "https://support.optisigns.com/hc/en-us/articles/7589195635219-Using-eyedrop-feature-to-select-color-in-Designer-app"
+  },
+  "apple-tv-player-release-notes-limitations": {
+    "hash": "0f045d77c798fe4de73ec0eb78548f9a5db2139f7e38f36d9b3687c9740b5107",
+    "url": "https://support.optisigns.com/hc/en-us/articles/6605515731603-Apple-TV-player-release-notes-limitations"
+  },
+  "how-to-organize-templates-and-share-across-teams": {
+    "hash": "2d1788df1000f05c7f95f8e5207b9d089af9f0506aacd7033d8bf7ff9088e2c8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4428997257491-How-to-organize-templates-and-share-across-teams"
+  },
+  "manually-control-playlist-playback-with-optisigns": {
+    "hash": "bdcaf565ebd72236fd7aeb2d4ed530ccaf6029990d2228e3942bb0b1de458981",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns"
+  },
+  "how-to-perform-mass-provisioning-with-optisigns": {
+    "hash": "a15913b19ebd351ab3bfedf0eacf9486b28344b837af28c604acd9afa5adae9d",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns"
+  },
+  "introduction": {
+    "hash": "f3c46e423d8bd03a25ad5d906266511755dcc7ef9e781e5058bdf7982a4befba",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414552808467-Introduction"
+  },
+  "synchronized-playback-sync-play-feature": {
+    "hash": "b360e7aa664a9093d8a78c769dfc8ff0bf65b960d1a24dba72fee7b71b2a6e82",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature"
+  },
+  "clean-install-optisigns-on-raspberry-pi-linux": {
+    "hash": "03b99d86dddc554759b5805f65e4af0a6c3aec9f2a0aa92a9710903e316205c8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4411956075027-Clean-install-OptiSigns-on-Raspberry-Pi-Linux"
+  },
+  "how-to-connect-to-802-1x-enterprise-wifi-on-raspberry-pi": {
+    "hash": "3233923b3ce866e0d65f31647b684faaeb10e23ec6a6cc09c98b6cf2fd9d11f3",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4411743936147-How-to-Connect-to-802-1x-Enterprise-WiFi-on-Raspberry-Pi"
+  },
+  "how-to-integrate-bonusly-digital-signage-with-optisigns": {
+    "hash": "e2db85f2d8dd3577987d4db9a3379f7b80e885fa695578ab9c9ab0870ff4db89",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns"
+  },
+  "how-to-use-remote-command-execution-windows-linux": {
+    "hash": "f475fcd53d925a0fdeef127afdda6d3a4e3947778cedd757fc8af72a54715b1a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux"
+  },
+  "how-to-use-weather-apps-based-on-device-location": {
+    "hash": "989ea4188c49d9c44d0e284fd7abdd957c9c2b985b5900cd3438dd2468dc94b4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4408052029587-How-to-Use-Weather-Apps-Based-on-Device-Location"
+  },
+  "how-to-set-up-saml-2-0-with-optisigns-and-google-workspace": {
+    "hash": "89a2b9d9de29b3820dd7021e3a5bf35bfd7852cb61a1a1aa88628a9db7ed8b71",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407493404307-How-to-set-up-SAML-2-0-with-OptiSigns-and-Google-Workspace"
+  },
+  "how-to-set-up-saml-2-0-with-optisigns-and-onelogin-shibboleth": {
+    "hash": "f894df4ffa350dd5642ef67da58723352d667c2ce237ba20c0351f0dd97907ff",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407476403859-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin-Shibboleth"
+  },
+  "how-to-set-up-saml-2-0-with-optisigns-and-onelogin": {
+    "hash": "cd521f4177a1349629795141507dc135aef3833a8c41d5977849a0d36366a04e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin"
+  },
+  "how-to-set-up-saml-2-0-with-optisigns-and-ms-entra-id-formerly-azure-ad": {
+    "hash": "f147983913367e5c3955c6573587c87dbcf4f33f826989b99aefb43b0644ef30",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407252213395-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-MS-Entra-ID-formerly-Azure-AD"
+  },
+  "saml-integration-strategies-best-practices": {
+    "hash": "43bcabe38365e67fda44a535aeff2d2bc5802d0bd4d6fbd713236fdcd3984a81",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407128433299-SAML-Integration-Strategies-Best-Practices"
+  },
+  "map-view-screen-location-settings": {
+    "hash": "0ada3184ec211169816782ad541cb0469ffa30697ada19a3de6bff6c75b04225",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407068788883-Map-View-Screen-Location-settings"
+  },
+  "how-to-unpin-optisigns-app-on-your-managed-android-stick-player": {
+    "hash": "562f3402fa61ea29e1ef4ac86277828843c1bd9eca0695673201e9b7d8202569",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404827608467-How-to-unpin-OptiSigns-app-on-your-Managed-Android-Stick-Player"
+  },
+  "add-1-or-multiple-assets-to-many-playlists-at-the-same-time": {
+    "hash": "32637b2651eb34e90f6878ef5f1f46e458a65ef36010a200d066c86431b8213e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404616139411-Add-1-or-multiple-assets-to-many-playlists-at-the-same-time"
+  },
+  "how-to-set-up-saml-2-0-with-optisigns-and-okta": {
+    "hash": "d3d85936b4889e3ecbd6c1da060cb12fe49c59009927f367bb1e1f673080e531",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404590815635-How-to-set-up-SAML-2-0-with-OptiSigns-and-Okta"
+  },
+  "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes": {
+    "hash": "5b60bc9661b8263072c31327d4ca39ea31dc6ee52fa98f2fd5783d83aad4d362",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes"
+  },
+  "how-to-approve-optisigns-as-enterprise-app-on-microsoft-azure-for-power-bi-calen": {
+    "hash": "0ccedca3ecc896578280f0b70702b5f7eed3a68256a745bfc6e873168b789cd8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403616315539-How-to-approve-OptiSigns-as-Enterprise-App-on-Microsoft-Azure-for-Power-BI-Calendar-etc-access"
+  },
+  "how-to-set-up-audit-log-for-your-account": {
+    "hash": "3a30a5e64091aeda8ed1a37f3b03b5d07f4e6847c365f764f6645fe008f0f1c3",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account"
+  },
+  "how-to-set-up-monitoring-alert-feature": {
+    "hash": "a4e68f4233fd0cf06afd9c0c18f7a5e1c4cf92db7d08d13e72fbc7763f12e845",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403306341523-How-to-set-up-Monitoring-Alert-feature"
+  },
+  "how-to-use-the-web-scripting-app": {
+    "hash": "ec05c1cccd07bc1c1822d0a6588f4e20ac03d4a5eaef078466829bd0c20dd560",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App"
+  },
+  "adjust-the-gpu-memory-on-the-raspberry-pi": {
+    "hash": "e7aeb0e7bcb7b3415d7c044d3543f8f33f6daeb1387c0ccfbfd1dd91e5bea13c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi"
+  },
+  "resolve-autostart-issues-on-your-android-tv-devices": {
+    "hash": "a607c4ff7c2699e4995c0de5c7a9ae8b17a69f004876709b5766907347486397",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices"
+  },
+  "install-update-optisigns-player-on-rpi-via-script": {
+    "hash": "b8ea619332d10643543e6a68673a50c53a330e9ffa329935c38eb19ab77f7b1f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009382101-Install-Update-OptiSigns-player-on-RPi-via-script"
+  },
+  "how-to-enable-ssh-for-your-raspberry-pi": {
+    "hash": "d3a82806c5acd56d44e121e2344d48d223ac5d17a675f1074b2beb9bf2492f06",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500008008981-How-to-enable-SSH-for-your-Raspberry-Pi"
+  },
+  "how-to-use-live-tv-with-ads-app": {
+    "hash": "979d6b75d28d63cdb9bb29c8fb440a6679ca494ccc268eeecb58fbe42bf167b0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-use-Live-TV-with-Ads-App"
+  },
+  "multi-select-assets-in-files-assets-view": {
+    "hash": "402e1da95595a3710015e5426644763f49e0906e9acdbe1c8d8f804f07426fa5",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500006056101-Multi-select-assets-in-Files-Assets-view"
+  },
+  "clean-install-of-optisigns-player-on-windows": {
+    "hash": "989a90eb247ed3b176798adf22bc3a9674cb6a3cdf71f330fd6bd2c65c14dc2c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500005467601-Clean-install-of-OptiSigns-Player-on-Windows"
+  },
+  "how-to-move-screen-to-other-team": {
+    "hash": "07b4e21a8ef1f889490b9994b449b036daa188dcf74c01a54cfdaa55d81709f6",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500003161182-How-to-move-screen-to-other-team"
+  },
+  "how-to-mass-deploy-optisigns-on-raspberry-pi-devices": {
+    "hash": "46344c66709305989aba21bdb392597860e6e79c302079c62ab9ce50e2e06d5f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360063098753-How-to-mass-deploy-OptiSigns-on-Raspberry-Pi-devices"
+  },
+  "how-to-install-optisigns-as-screensaver-on-roku": {
+    "hash": "cb788f466fe15ccea18758cfef4ce5c818ee4cdab7837eac493459e262230ae0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500002383502-How-to-install-OptiSigns-as-Screensaver-on-Roku"
+  },
+  "how-to-mix-playlists-and-maintain-screen-time-share-with-optisigns-content-rotat": {
+    "hash": "b93625e8da69b64f6ab4c51e92dd699d1ba6b3c864956c811201e8dea34ee390",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500001561861-How-to-mix-playlists-and-maintain-screen-time-share-with-OptiSigns-Content-Rotation-App"
+  },
+  "advanced-enforce-sso-login-for-your-account": {
+    "hash": "589bb5cdbb106961e7d4fbf2de0d46e0123b2aaca0c59ec25d9dfc2137d83f7b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account"
+  },
+  "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick": {
+    "hash": "1bd7bd8de6d0bb369d05e0b763c9565044aad404c2a9ff9f05ccd0db1d1dfa61",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000941981-How-to-allow-the-OptiSigns-app-to-access-local-storage-on-a-Fire-Stick"
+  },
+  "how-to-use-youtube-playlist-with-optisigns": {
+    "hash": "cea3062c5e5c5a4c141020a406372de8acbcdbb03935b01b9a7ae986b635e39e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-use-YouTube-Playlist-with-OptiSigns"
+  },
+  "billing-how-do-i-change-my-subscription-plan": {
+    "hash": "8edf9e5f81e8d53c505dde44452e088703187b2afaf3554f8056dfaef678cc98",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan"
+  },
+  "custom-branding-settings": {
+    "hash": "e5d56c8d7f2589b744f28c4ecac6dc566895d2509af89cf4fb87867190105054",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings"
+  },
+  "advanced-custom-domain-mapping": {
+    "hash": "815f02daf48c9909ac753b5204802ed6aeb797fa85d914ebd54e472eb0d08949",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-mapping"
+  },
+  "how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi": {
+    "hash": "7a756c0bc03deaeaedf0c1682f317e709e6f5df27f6ed111cdaffb16448e8c9b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi"
+  },
+  "how-to-run-optisigns-ai-add-on-on-start-up-in-windows": {
+    "hash": "cf025036a4f13746d17f0265c4c893edd978be791c559d15b02ebc9af329ac13",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360058345334-How-to-run-OptiSigns-AI-Add-on-on-start-up-in-Windows"
+  },
+  "audience-intelligence-ai-camera-faqs": {
+    "hash": "4923a59795125975f9ddabad32f1c5e9b69e5986f1e9e10a2e0c3295ab237a0a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360058259834-Audience-Intelligence-AI-Camera-FAQs"
+  },
+  "advanced-proof-of-play-or-playback-report": {
+    "hash": "10c2ae0150dcc0f45adfef9026431d053c0201fe32092097aa17d5d14e268c44",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360058936513-Advanced-Proof-of-Play-or-Playback-report"
+  },
+  "pre-configure-wi-fi-with-optisigns-devices": {
+    "hash": "9299ca3a32fbb87bdc8fbf4b451ccf3c803bffec8baa839abf33e3f9f0a4c419",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices"
+  },
+  "how-does-pre-configured-devices-labeled-in-shipping-package": {
+    "hash": "93ccea27c461209e7c918955c29f18efbc6aae1ba8c9ac73bd62f3d8e35eadbe",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055546594-How-does-pre-configured-devices-labeled-in-shipping-package"
+  },
+  "advanced-how-to-install-activate-optisigns-remote-agent-on-windows": {
+    "hash": "47e874b59f7bb905677e5334dca870c2ec50cabee27374aef7dddc5ec00f19bc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360057327693-Advanced-How-to-Install-Activate-OptiSigns-Remote-Agent-on-Windows"
+  },
+  "remotely-control-and-command-optisigns-devices": {
+    "hash": "2dec6129f0c62d2e8924466f74e23a6d5a66b26f50967b6e9e82c82d27edfb62",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices"
+  },
+  "how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv": {
+    "hash": "6ada4108f44b3b82e24f7f0fa832b59fbaca9489a551c08b2920a60ac264014c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV"
+  },
+  "advanced-how-to-manually-install-activate-optisigns-remote-agent-on-linux-or-ras": {
+    "hash": "5ddebcba99ad6137dcb3685049eb8faf75dd197cbc5fd1bb241d598fe4b0b6ac",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360057146573-Advanced-How-to-Manually-Install-Activate-OptiSigns-Remote-Agent-on-Linux-or-Raspberry-Pi"
+  },
+  "how-to-use-usb-hub-adaptor-connect-to-your-fire-stick": {
+    "hash": "25b53470ae420b5438b7f155d96630db3f9c358c8ee829412304112581c7041d",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055080914-How-to-Use-USB-HUB-Adaptor-Connect-to-Your-Fire-Stick"
+  },
+  "how-to-change-time-zone-on-your-raspberry-pi-device": {
+    "hash": "5b88ee8b54736969c4addea453b4b97d5044faffe9cc4833dd580fab00534d6b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056655633-How-to-Change-Time-Zone-on-Your-Raspberry-Pi-device"
+  },
+  "how-to-connect-to-wifi-for-raspberry-pi": {
+    "hash": "55a20c57d1717f8f747f14bad1b2847aafe46239cbf1eb4b87ca7093d5e6004e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056627833-How-To-Connect-To-WiFi-For-Raspberry-Pi"
+  },
+  "optisigns-side-menu-options": {
+    "hash": "1649b7cf7419ec55705cbbdf7c4a5fd5f75e8cb176c03786f7ecd99267fd019e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056090593-OptiSigns-Side-Menu-Options"
+  },
+  "how-to-factory-reset-your-fire-stick-device": {
+    "hash": "055e20c4011d351abe08a9a105d257cce0d834ebc42594244f7b1402a39a85b8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device"
+  },
+  "how-to-clear-cache-on-your-fire-stick-device": {
+    "hash": "94c45989654879490a13ca61b642050991e8be4ffd1a5c3d88aedc8d37407723",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device"
+  },
+  "how-to-change-time-zone-on-your-fire-stick-device": {
+    "hash": "ff28c0bfc5cb715d23d7add19a678e15a9846715d3e8c292509819a2fb7b2adc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device"
+  },
+  "how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device": {
+    "hash": "f4b3f194d4fe4a5512ac928de4c21886d7584796ad2ef22fde821259109c720e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device"
+  },
+  "how-to-update-fire-tv-os-to-latest-version": {
+    "hash": "fab4456fd5ad521937d44cdc17958409f5f5661219b6c0ae162c9f0bc2456139",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version"
+  },
+  "how-to-set-up-an-instagram-business-creator-account": {
+    "hash": "5bd6405de79e4ed2313aa45bfdfd0c69ba2eac2c0bcf18d40dca8708f28463b1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account"
+  },
+  "difference-between-instagram-instagram-business-app": {
+    "hash": "54cc6a61124e8d266ce1e9ad6d2fb2f9a0d65617684577eb073cbd8787c93898",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050728934-Difference-between-Instagram-Instagram-Business-App"
+  },
+  "how-to-use-overlay-layers-with-optisigns": {
+    "hash": "ae2cb4bd7c46fc2c1cab070a94f0d9f4ad094a29a58cf51f3ca2a20e44ad9bee",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050602413-How-to-use-Overlay-layers-with-OptiSigns"
+  },
+  "edit-screen-what-does-each-option-do": {
+    "hash": "e13217cb4c02c51f48682fed184425353672f71d4cbc55f4281e865ee49ab2b1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do"
+  },
+  "whitelist-optisigns-ip-addresses-ports": {
+    "hash": "0a11ab71b40bc961d5c7bf9a70097d67c4272f2ef0015090ad94df1190dec721",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports"
+  },
+  "amazon-fire-stick-and-security-considerations": {
+    "hash": "092ae11d7ecb25d25a416d32cd6728632c016baaf601f19ebac4fb92d226ddaa",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047232054-Amazon-Fire-Stick-and-security-considerations"
+  },
+  "advanced-security-managing-user-roles": {
+    "hash": "a43f0dd6d18241622d10db05d64ffad68a691a302727bfdf902dba172bf51ce8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles"
+  },
+  "there-s-no-sounds-output-for-my-raspberry-pi": {
+    "hash": "43862e0ac2c9adee657c54f1b42ac4d18645dff77e96351b966c8cefe2fcb66a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360044614514-There-s-no-sounds-output-for-my-Raspberry-Pi"
+  },
+  "folder-level-permissions": {
+    "hash": "80b282784e648addbd89d63e93e609ef89573e7bdb55ec897954886de61f72fc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360044600474-Folder-Level-Permissions"
+  },
+  "organizing-your-files-assets-playlists-and-schedules-by-using-folders": {
+    "hash": "a8fe144600fc92af3ae5c170f25f628384e71b8b25d4844608860f04d4023dd1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360043670633-Organizing-your-files-assets-playlists-and-schedules-by-using-Folders"
+  },
+  "how-to-create-and-use-nested-playlists": {
+    "hash": "4490bc4d9eb81c326a5dd3a1ebd7013ccdfe226de3f37377e029181ee84e37d6",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists"
+  },
+  "how-to-set-an-asset-to-live-or-expire-at-specific-time": {
+    "hash": "476b1558394647019d3e83aee1cb36c4884d0438c6c14aff88e32c23a256a42e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time"
+  },
+  "how-to-re-encode-video-files-for-better-compatibility-on-your-devices": {
+    "hash": "346a9ee55cf5742f09c64045af0115a0fdeebf3dee4fbe38c96c93e12af72641",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices"
+  },
+  "roku-release-notes-limitation": {
+    "hash": "013111420d29e199d63a8d7d7060ff7a02e8a8258d54712cacfd9f47d89e33f4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation"
+  },
+  "how-to-change-billing-information": {
+    "hash": "eb5538d8c7f9ec2c30d82b9e8ba98785c8a35ef69608d0b36ee9cef4303ae169",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-change-Billing-information"
+  },
+  "my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-p": {
+    "hash": "51c168d5380c78a4ff87ea1ab94db3c216d5b68f0f69c15936705e2745876d97",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041570153-My-image-content-are-bleeding-off-the-screens-with-Windows-Linux-Mac-Raspberry-Pi-app-need-screen-calibration"
+  },
+  "assign-default-content-for-schedules": {
+    "hash": "c7da979a0b468f9125361023286660778d9434a7eec7cd90190fc3cc547670bb",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360040943374-Assign-Default-Content-for-Schedules"
+  },
+  "how-to-install-optisigns-as-channel-app-on-roku": {
+    "hash": "fe538f446ea1d2081cae37e491a37c94f8293e6640cb960736be8a7aaad28bb0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku"
+  },
+  "video-codec-or-video-playback-issues": {
+    "hash": "e25d18fdd94450cb3a9be2592235bb92f70075ee7ee7826e836a74b129a15d16",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues"
+  },
+  "how-to-use-the-atlassian-jira-app": {
+    "hash": "8463e70548412e2f01926f692d1ef3c3e9fe37ae50ea648bd710cfb9c6212b31",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Atlassian-JIRA-app"
+  },
+  "how-to-display-content-inside-websites-that-require-login": {
+    "hash": "c4f87b419f9cbb6a5979c2881d17a5d65c72d3469d62f748136fbed08934e2a9",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login"
+  },
+  "adjusting-social-news-wall-speeds": {
+    "hash": "70dea5387b8bdc3c4ff52e814d75d35096cb1957eecc49f3ba6026cb4547ee27",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360036465673-Adjusting-social-news-wall-speeds"
+  },
+  "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati": {
+    "hash": "dfa02f45612ca15331b00c12b4b5392f88947cd55d1654d0644b113e9a4e681a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration"
+  },
+  "working-with-teams-and-security-levels": {
+    "hash": "5533662f55157b98b4231efdf4bf9e940335ffa3f25e42922c3419e10802e26b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels"
+  },
+  "windows": {
+    "hash": "330c9de219d551f410538489211ac806b334a78b5c36f8e2c2eff7650a23614e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034379293-Windows"
+  },
+  "powerpoint-transition-and-animation-effect": {
+    "hash": "1f4d26c9b9c1e24b542ad145a5ec9e8bdadc1978a39e8f56bdcfeb09e3df255e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034219593-PowerPoint-Transition-and-Animation-effect"
+  },
+  "powerpoint-resolution-size-for-use-with-digital-signage": {
+    "hash": "1c84cbb8f0a9d3ca82cb7dd0197db3bf4906198fd13841ff7ef1dbd8ac2e2c0b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage"
+  },
+  "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content": {
+    "hash": "698c9f64d681009007c1403d94ec42ef69461fb6b4515170a61a56269c655262",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content"
+  },
+  "how-to-create-a-scrolling-strip-bars": {
+    "hash": "f105ebff3b44b2753a559615cf1b71745d570d9d14ddb55f0f7eaa9ed20e3597",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-create-a-scrolling-strip-bars"
+  },
+  "how-to-create-and-use-the-split-screen-app": {
+    "hash": "345bf018b9cc6020a5e1626c5ea80edd72d09f294c2010369ee37757b74563c9",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App"
+  },
+  "how-can-i-remove-delete-uploaded-files-or-assets": {
+    "hash": "d8ece3bc844bf843afaf83a69d4315c8ac9491ae0f1ae22ee9d022bdbf1e00a1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets"
+  },
+  "how-to-start-optisigns-automatically-when-devices-boot-up": {
+    "hash": "46698b147c12aef31aa50e72f549f87c6587f2d62f785864a75648a77cee0094",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360025626853-How-to-start-OptiSigns-automatically-when-devices-boot-up"
+  },
+  "can-i-disable-the-download-button-for-assets": {
+    "hash": "8010c8bc61bcebb3c0e892972e7486a523ed8b1591071d692ba0061d1b1522a1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360020931734-Can-I-Disable-the-Download-Button-for-Assets"
+  },
+  "how-to-install-an-apk-file-on-your-fire-tv": {
+    "hash": "00eccea2e262fc499784b1b7113099e16f27c2a3aa6e9bafd456c534e3fab4ce",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV"
+  },
+  "does-optisigns-offer-non-profit-education-discount": {
+    "hash": "4a9aeacb89a34665e9b15b9afc18a0d8bade2cde153c2098d1000b55a8648ddc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount"
+  },
+  "how-to-upload-manage-your-files-assets": {
+    "hash": "f25ed046db5820de5b19dc58060d2429cfccdf3da0e51e38710f1a01c952be58",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets"
+  },
+  "what-types-of-files-are-supported": {
+    "hash": "a36cef9ac0091d635c17465dae726af0f736efa4fb141c4779d2827cb274d60c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016342373-What-types-of-files-are-supported"
+  },
+  "animation": {
+    "hash": "0aa8e0a3a338a30c85917f3bb2a757d7d2e74ca632bd85e9c2103787cf0ed7d1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42305104960147-Animation"
+  },
+  "proplayer": {
+    "hash": "4ca68d508c1654eb10584d0422a66daaa6472902fc5de357c2d3413044a67673",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer"
+  },
+  "how-to-use-the-optisigns-mobile-admin-app": {
+    "hash": "c2a2250c370b02abd5b773d16a33387e759ffc51e339b654e0696d4f28330b1d",
+    "url": "https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App"
+  },
+  "how-to-add-a-microsoft-365-excel-spreadsheet-as-a-datasource-for-optisync": {
+    "hash": "58ba14c7ad686c18c2c7ff759967010e18cb283f039452a345adc00e72f99377",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29863080711059-How-to-add-a-Microsoft-365-Excel-Spreadsheet-as-a-DataSource-for-OptiSync"
+  },
+  "how-to-manage-and-edit-your-playlist-settings": {
+    "hash": "642542934f4792ed78835a7d409a082048f8526e5187170967e9730138959353",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings"
+  },
+  "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3": {
+    "hash": "1614f3b4773dffb92d99edf92d295a297b6caea192ccdc7c0c71feac35513d2c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3"
+  },
+  "how-to-get-the-most-out-of-your-digital-signs": {
+    "hash": "5128cb61b100de16623bdca06129c3fb35b5838c7ea90664828ed572d52908d7",
+    "url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs"
+  },
+  "how-to-share-contents-with-other-users-teams": {
+    "hash": "c44d99911038f81127fa87d0ac1eb1090a8bf65a31a1248addf9ec949cc5ca96",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18986181635859-How-to-Share-Contents-with-Other-Users-Teams"
+  },
+  "how-to-get-the-list-of-playlists-where-the-asset-is-used": {
+    "hash": "67d398cd86bba024001af0a012f23b30fcdcd837319d9d3ecd695ec1cd2557c0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used"
+  },
+  "generate-manage-optisigns-api-key": {
+    "hash": "965b193e3b61bb47f27a157924932f5d2143a8a352d9a77984ec44256864c0ae",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key"
+  },
+  "view-billing-history-and-download-receipts": {
+    "hash": "1f91fae966d1e6a85521bb3e3e46f533589239797adc10e83e567a24fc3ae029",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360054557434-View-Billing-History-and-Download-Receipts"
+  },
+  "how-to-link-instagram-business-or-creator-account-to-facebook-account": {
+    "hash": "e3a2de1815f4294f2e4284ea212ad394bda9e025fd5933d1ffd82eb266d15c38",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050855313-How-to-link-Instagram-Business-or-Creator-Account-to-Facebook-Account"
+  },
+  "how-to-use-google-slides-with-optisigns": {
+    "hash": "35d47a7de006e04dcbb712f9211b6a0e3a18b8e12afdb419a0c9de683859ef4d",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns"
+  },
+  "macos": {
+    "hash": "a86ad37a1de08aaf1c6ac314b9d0d537c6bd2ab4327ed785926fc1117ec58548",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041501494-MacOS"
+  },
+  "how-to-preview-a-screen": {
+    "hash": "fe7ce986e5b9958c2ee667ffe1c0aa34b2e91d23fc4a8094e561d39e2062cbe1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen"
+  },
+  "how-to-use-a-pdf-with-optisigns": {
+    "hash": "af3496a58cb1529c830059a2f6d720fbe8f30c9d28b6ed06b2009251c7cb5f96",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360024310813-How-to-use-a-PDF-with-OptiSigns"
+  },
+  "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick": {
+    "hash": "da782cd380da5e4f4130d19e6e5f1d7ce2f242e85475d04d56076837b24bfdd1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick"
+  },
+  "your-templates": {
+    "hash": "73a0c9aa7fe9b42d9d7987ef0388e0230913f8e9ac7a52e8a4fb888e61686da9",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42830652820115-Your-Templates"
+  },
+  "promax": {
+    "hash": "7ba10ea961183807bcd4ef0230b510b1df0f824bbc65da3f8bb82653ce9b1f38",
+    "url": "https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax"
+  },
+  "how-to-contact-optisigns-support": {
+    "hash": "3d28e5d0b657da83b698a9d3e99bc4863b0c2bf8f8c790880d29a66324cdf17c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support"
+  },
+  "how-to-add-google-sheets-as-a-datasource-for-optisync": {
+    "hash": "5a1c23f8be7c43ce190beed79e202ec645ac54394871af30156997f6b17bdb8a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync"
+  },
+  "i-received-the-optisigns-device-but-it-s-onhold-and-cannot-assign-content": {
+    "hash": "025461e74cc2dec706904f711b02e6e3eaaee676d07913387e7e174f73c30e3b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27676133574547-I-received-the-OptiSigns-device-but-it-s-OnHold-and-cannot-assign-content"
+  },
+  "how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case": {
+    "hash": "964ad382c398287cf8cc3f84afb04e507edc303d02e56f5e154ea89913113fba",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case"
+  },
+  "how-to-install-optisigns-player-on-apple-tv": {
+    "hash": "3efad9f6d31cf946f2bd9f41a6dd56419524e4dfdad6b28b93f4f2793f49c0c6",
+    "url": "https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV"
+  },
+  "get-started-with-optisigns-api": {
+    "hash": "d1d8c1418461190f1becb37cf1c20900cc5c2e6c47c1f99785ca023ec977a5fd",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414563863827-Get-Started-with-OptiSigns-API"
+  },
+  "advanced-how-to-assign-security-for-users-to-only-edit-certain-zones-of-the-scre": {
+    "hash": "109812ea064e12d17074f34b60b6a113f394572400b0299945712fd8a7c4ee6f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500002047642-Advanced-How-to-assign-security-for-users-to-only-edit-certain-zones-of-the-screens"
+  },
+  "set-optisigns-as-screensaver-on-windows": {
+    "hash": "50525687445f8f8a9179213f294a2e24156f93d7dbf294935d24190fb3528520",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows"
+  },
+  "show-youtube-video-s-subtitle-closed-caption": {
+    "hash": "8ab39cd918865f37976d1c935437e82f6ea4fedb93c8fc5412e087d568a6328d",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption"
+  },
+  "linux": {
+    "hash": "eba1460b71e87abe73fee35327c1bb72422b47a92efedc88fed7899c5d84b938",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034379573-Linux"
+  },
+  "changing-screen-s-orientation-portrait-landscape": {
+    "hash": "314ce950ac82994dd6d8e62027aedb5b3b26a94d4189c2c7bfb02cdb1c9ef238",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape"
+  },
+  "how-can-i-remotely-start-restart-optisigns-app-on-fire-tv": {
+    "hash": "ca166351f437bbe163971afe5e023a9c7009c2b76be2750e4587c7658dd4c9bd",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016485633-How-can-I-remotely-start-restart-OptiSigns-app-on-Fire-TV"
+  },
+  "how-to-create-and-use-instagram-wall": {
+    "hash": "8bb53e38aaa64963d3f8644c099313b21eb370047e7471ee351fad8ac71f29e0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall"
+  },
+  "what-if-i-want-to-increase-decrease-number-of-screens-during-the-month": {
+    "hash": "9765cecbb50b06e811223060aa074809e5934590f16642a3806f6aa97873dbd8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016219114-What-if-I-want-to-increase-decrease-number-of-screens-during-the-month"
+  },
+  "kiosk10": {
+    "hash": "6c0d8865e16df4f7d6db5791dc43d3068ddff99e9184f98f2c119f22ce754faf",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44652521310099-Kiosk10"
+  },
+  "widgets-in-designer": {
+    "hash": "dd639465b5a0f2fa582bf2bdf9307379b8bf047383a3b2cb1201ef73d45888d5",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42436941395475-Widgets-in-Designer"
+  },
+  "how-to-display-dynamic-event-schedules-using-optisync": {
+    "hash": "a748de39e71c857f5b869eb32d32074bbe1f0bc9fde16590e9cfc4b1aa87e00e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/33468569218067-How-to-Display-Dynamic-Event-Schedules-Using-OptiSync"
+  },
+  "how-to-fix-the-scaling-issue-on-optisigns-android-device": {
+    "hash": "02956795df3edda8fcb0b25ca29c43b8d8cd6cebacf959e6ab049856b9465986",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27607906766483-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device"
+  },
+  "how-to-manage-sub-account-billing-with-optisigns": {
+    "hash": "b5fae99069cdcf4a8efa403e09d24a343cecf0b3131606d68a13f88f347f5670",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns"
+  },
+  "how-to-install-optisigns-on-samsung-tizen-smart-tvs": {
+    "hash": "90c7367f5ebd959651979cb29c65420a531108642213ea468b38ad59e36b77d8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-How-to-install-OptiSigns-on-Samsung-Tizen-Smart-TVs"
+  },
+  "graphql-api-tutorial-pair-and-assign-content-to-screen": {
+    "hash": "7d08e0d34311cf4ead48a9b243a50939b87054d6b57dd87f70065de04ef5233c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen"
+  },
+  "moderate-your-social-media-feeds": {
+    "hash": "6c06ac799b85cbf6e85efe1e05abbfdd39b1ca9f0e46e2da953f6bd8ffd4b7fd",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403015887763-Moderate-your-social-media-feeds"
+  },
+  "android-tv-chromecast": {
+    "hash": "3c9d3a06c3284fe2b3ee116cb98f6745f9b2e5338b22622930b3ebef6ef3c59c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500004699122-Android-TV-ChromeCast"
+  },
+  "how-to-use-approval-workflow-feature": {
+    "hash": "979c90ed90636142db08c56fb5fb833de90bb81e2797d061ac249f567d2d13a6",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360063693093-How-to-use-Approval-Workflow-feature"
+  },
+  "what-hardware-and-devices-are-supported": {
+    "hash": "f27bc85e858e9be719b7c17dd807c91dc60307b8cb2c4039b7c244bbe51b0cc7",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported"
+  },
+  "how-to-tell-which-dropbox-account-that-i-linked-to-optisigns": {
+    "hash": "0b9fc51593e2e445a928f7fce614dbfc5324653ff2d9a1a1e7c6ac6ac57bef52",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360019588654-How-to-tell-which-Dropbox-account-that-I-linked-to-OptiSigns"
+  },
+  "how-to-use-weather-apps-in-optisigns": {
+    "hash": "780a32997e7c6d072d83155a7ad35822b06391f17b1694e4ac304dd4823b9805",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns"
+  },
+  "assign-content-to-your-screens": {
+    "hash": "3bab83d5ee5c1ab39370a49ab151ecd79a27e66e069d5c356dae4592939162d2",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens"
+  },
+  "kiosk32": {
+    "hash": "2f85a8bf8f29e8f7b86f8611390ba70a85f25981bf90a66f2b7e5b6d17a74cf7",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32"
+  },
+  "photos-gifs-and-qr-codes-in-designer": {
+    "hash": "86c9e4d30c3c81013bd29e3f9225b018dd91b0e04ee2649a90363217ce55d192",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer"
+  },
+  "how-to-display-birthday-lists-with-optisync-data-mapping-and-google-sheets": {
+    "hash": "19e61ea1684ab830945c097d97bdf3d3e93f7272ebd013df2f1546ec1d0a4c6b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29979283289235-How-to-Display-Birthday-Lists-with-OptiSync-Data-Mapping-and-Google-Sheets"
+  },
+  "display-device-info-onscreen": {
+    "hash": "dd72b56625f0ccc62ccf017b370a23d2643a018f95f59ec46e230f42d12662f1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27070013297427-Display-Device-Info-Onscreen"
+  },
+  "present-share-ios-android-phone-tablet-to-your-screen-with-optisigns-aericast-ad": {
+    "hash": "cecc1ae6c5bfcd325fe98e12de07d3ee53627a116c3c098e3fa3c095f4796c4f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14557706459283-Present-share-iOS-Android-phone-tablet-to-your-screen-with-OptiSigns-AeriCast-Add-on"
+  },
+  "tutorial-create-update-add-remove-items-from-playlists": {
+    "hash": "3b0cf8033bae3d0db7423e59849e1140126d212e1539c34cc7326cd18fe54bdd",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists"
+  },
+  "multilingual-and-multi-currency": {
+    "hash": "f5ddf23489c07164ba7447f72d6fcc7bdf498b505cfcdea91f7847f1e11552ac",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-multi-currency"
+  },
+  "how-to-install-optisigns-player-on-android-boxes": {
+    "hash": "c766252de119fd9c28a35a30244bb003b256a62e217108a7155a13334effc1a7",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500008112642-How-to-install-OptiSigns-Player-on-Android-Boxes"
+  },
+  "raspberry-pi": {
+    "hash": "e875f1a16881e89ca98f538b6514940679e7041b8b4b662f1f51df553ab5f910",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi"
+  },
+  "multi-users-invite-your-team-members-to-your-account": {
+    "hash": "7564fa5081a8b58ee0caad55a152ca0ef6f0b661d59cfa33a99745145d62b8b9",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016990233-Multi-users-Invite-your-team-members-to-your-account"
+  },
+  "set-up-add-a-screen": {
+    "hash": "ffbc1ebb7fd2081016d0fc2cebe8067ee20d74099d8ff7fbd2bacd4501875b9b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen"
+  },
+  "kiosk50": {
+    "hash": "d192b3ccfb13d205084ab075f6c9f231c25ce0d56a99b1a7f8405b4a5024d077",
+    "url": "https://support.optisigns.com/hc/en-us/articles/46299245284243-Kiosk50"
+  },
+  "customize-text": {
+    "hash": "edf028dceb843ff41505e6c0a000f65761b3c9562a9d8531ef3ce8387e8c5efd",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42157810188179-Customize-Text"
+  },
+  "tutorial-creating-or-updating-website-assets-using-graphql": {
+    "hash": "75e5eea096c5cbe20a9f7d0c53e79538ac913800482c5d33e17e93dbbb732d50",
+    "url": "https://support.optisigns.com/hc/en-us/articles/36562094987795-Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL"
+  },
+  "how-to-create-custom-news-feeds-with-optisync": {
+    "hash": "36bf1ad2bff6f0b55c5508c98642e972234bab8b185b8fc6bb1032819a9a84f1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35337746613139-How-to-Create-Custom-News-Feeds-with-OptiSync"
+  },
+  "amazon-signage-stick": {
+    "hash": "2939834c9e6d08ec9240fcb72ab5adab19ebddbd0d1b1fc2d8894d3cc55a4c5f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick"
+  },
+  "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing": {
+    "hash": "290a607242a57259da0c9063dfd0508071e0adadd6bd7f6540fb5d9e396e7165",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing"
+  },
+  "how-to-change-account-owners": {
+    "hash": "6c2f9965345c04b46b42c13ecd4a4753f4222125a4a960e09004c98e0e60e6c9",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners"
+  },
+  "how-to-install-optisigns-as-an-apk-file-on-android-devices": {
+    "hash": "d3a31828107c2f7136399ae086c5008aaaf4bd1be4188f79cfc0e8fc397f18b0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500011891542-How-to-Install-OptiSigns-as-an-APK-File-on-Android-Devices"
+  },
+  "how-to-unpair-a-device-screen": {
+    "hash": "a1ca15595834491a8bec4e5db576e28a4391d72ca638f99243d47347dadbf457",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360058700673-How-to-unpair-a-device-screen"
+  },
+  "how-far-back-or-how-many-posts-will-be-fetched-for-my-social-walls": {
+    "hash": "17c55509818382abba929aacb71d04064c7dbed75f8c4b72aaf023d0c9ccbfb4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042424294-How-far-back-or-how-many-posts-will-be-fetched-for-my-Social-Walls"
+  },
+  "how-to-use-imovie-content-with-optisigns": {
+    "hash": "bed66cc7c91ddd48b757ba91a1f694071c22164c904f607fbec4823f6096b2b4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016494933-How-to-use-iMovie-content-with-OptiSigns"
+  },
+  "legacy-datasources": {
+    "hash": "f91de646456d86ff30dbab4a13cfd4616db389c9c6c79b609660a268560ed3b0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42915219118739-Legacy-DataSources"
+  },
+  "shapes-and-elements": {
+    "hash": "a571889e5cb937314728250a482f0adfd4e5ca031e21ca06880fdde8f6012ce7",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42307234534547-Shapes-and-Elements"
+  },
+  "tutorial-creating-schedules-and-adding-schedule-items-using-graphql": {
+    "hash": "9486e2fb56ad1a2ab53446b38d027af75df3af5ae5d7f375c1b53e506c1e310f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/36558834998291-Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL"
+  },
+  "optisigns-pro-player-advanced-features": {
+    "hash": "6a16f1b12d058c5176fca3883b696298827f24c38bff2f0a7223f4f47a5d318a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features"
+  },
+  "how-to-add-captions-to-vimeo-videos": {
+    "hash": "0e74d99df1b0ec877e1267d27f45ccacdfadedd4ceec40eaecfd8a1c3afe126d",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18500083191059-How-to-add-captions-to-Vimeo-videos"
+  },
+  "present-share-your-screen-with-optisigns-aericast-add-on": {
+    "hash": "85f90f0b1a223981e5e57957cdcca12a300dbbd8308d4875facaec9ee1ae1628",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on"
+  },
+  "how-to-delete-your-account-from-optisigns": {
+    "hash": "4f1364a59cb34069ff35a0c165b489f0611ed6a44b41845fedaefd16d415b1fe",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns"
+  },
+  "amazon-firestick": {
+    "hash": "e8e4483a5da597c25a08761f631c1e2b514db056ffc4758a49a1089acaf811e7",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick"
+  },
+  "kiosk-setup-hub": {
+    "hash": "0f9ac5c60b9c98e906e7de13b107f6ac165b937041009afdfaed1e50258307cc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub"
+  },
+  "brand-kit-and-enforcing-brand-guidelines": {
+    "hash": "08eb6b3c3c2937b9aa639aa790399d9868bb96fb78f3cb39c42f14044dbf2371",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42313875427859-Brand-Kit-and-Enforcing-Brand-Guidelines"
+  },
+  "update-optisigns-player-on-optisigns-pro-player-gen-2-via-script": {
+    "hash": "dc394b05fd60b02ec78dc20e54a42260d2785999e2c855224381037417b6fa67",
+    "url": "https://support.optisigns.com/hc/en-us/articles/21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script"
+  },
+  "how-to-use-the-musthavemenus-app-with-optisigns": {
+    "hash": "59e86b8c0fd53ddbb5753bf43471f0c630232eb195c1fdad65609b3b3657aecf",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-use-the-MustHaveMenus-app-with-OptiSigns"
+  },
+  "pagination": {
+    "hash": "7bef914f1072a45504a19ffda96d1e1e35e22161bb7a4973e3ba0d115620dce9",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination"
+  },
+  "how-to-replace-update-an-existing-asset-image-video-documents": {
+    "hash": "66c9d73e6adfbe793af290e7c838c3fc8e104d572c309759ab5c5d342034efcf",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009498782-How-to-replace-update-an-existing-asset-image-video-documents"
+  },
+  "fireos-tvs-amazon-insigna-toshiba-tcl": {
+    "hash": "963aa4e49a61f4de6b29f014d81cfd3d1eb9724cc7abfe64bfc88280d1ddfb82",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL"
+  },
+  "about-the-onhold-devices-folder": {
+    "hash": "2f4e9660a8cada67f66c622875093126b3839bb0689fef43165552459509e20c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder"
+  },
+  "creating-and-using-schedules-with-optisigns": {
+    "hash": "955e082b8a71780437504bd964b1078a0ca896c894a57a142da5041220f5e69f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns"
+  },
+  "why-does-my-screen-show-as-offline-on-the-web-portal": {
+    "hash": "3c1963f7bdb20c32acb7b7720e510f796981c50e18d9d4d7dc61264651b13986",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016484473-Why-Does-My-Screen-Show-as-Offline-on-the-Web-Portal"
+  },
+  "where-to-buy-optisigns-devices": {
+    "hash": "cf27ae6237f246cd70c160b1376dae17dd5e03b5b453c6067649f58376d6f322",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices"
+  },
+  "how-to-use-waitwhile-app": {
+    "hash": "b505af0951e38bf5f78ffb2b1fd066111561b404e6cd1a50583bf5110f4e74fb",
+    "url": "https://support.optisigns.com/hc/en-us/articles/11784310183571-How-to-use-Waitwhile-App"
+  },
+  "brightsign-players": {
+    "hash": "005736dea05ad03d6b7f82f092b79dc8ad36e66e4135e0ad82abf00854dc8db0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players"
+  },
+  "error-handling": {
+    "hash": "027d9a999328ab402defd9c3bcc0a4504177ae8bb787d059b2bc6090509d2e19",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling"
+  },
+  "how-can-i-improve-stability-of-fire-tv-as-digital-signage-player": {
+    "hash": "b5f62c17454bbe409259f6a76787ebc5911e6b3ca66d15cc0e355535c46bd0b6",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016484393-How-can-I-improve-stability-of-Fire-TV-as-Digital-Signage-player"
+  },
+  "can-i-have-my-invoices-receipts-sent-to-a-different-email-address": {
+    "hash": "4d02293e296101e12aa69e7ca70b3f398c1a5fc226a225f8d95447e78e38433e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016375793-Can-I-have-my-invoices-receipts-sent-to-a-different-email-address"
+  },
+  "subscription-function-in-graphql": {
+    "hash": "76759ce2e129e5279dcd8bae3b3e794ad69f6c3803a743ea70448f11c76558b5",
+    "url": "https://support.optisigns.com/hc/en-us/articles/36558469962643-Subscription-Function-in-GraphQL"
+  },
+  "how-to-display-google-slide-in-portrait-mode": {
+    "hash": "7e60ad477819427595064211f48dd3a90369b8bf811c6156a4d73eca5a51d7f4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360019710493-How-to-display-Google-Slide-in-Portrait-Mode"
+  },
+  "what-happen-if-internet-connection-is-lost": {
+    "hash": "a97cac24b2a41b67bad514c8368edc24e9563c6304415366c1840200d91b881e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost"
+  },
+  "web-browser-as-optisigns-player": {
+    "hash": "4b4623ddbd3c3954bdfd73b5eb6ee5f82f2b357c0841e090565627448657c1aa",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016252394-Web-browser-as-OptiSigns-player"
+  },
+  "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade": {
+    "hash": "9d8188ea32fdc6b77f6f5cd3997bb52f35b30906192180cea72ed51902d610d4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade"
+  },
+  "how-to-use-monday-com-app": {
+    "hash": "04ff8e3b42c2c500343aa8e0a3d0a5cb916967d79dc1bb8b7b3779da9dbef2dc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-use-Monday-com-App"
+  },
+  "api-reference": {
+    "hash": "f0764477e6034f5e8a94f9a8264e5866e7297d7e5601389e33012bd48316669a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414558392339-API-Reference"
+  },
+  "how-to-export-high-resolution-canvas-template-designs": {
+    "hash": "31cb482aeaa08ec14e687795c841906c07ff41203c5b8786e59e53c2afbb1d7e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360060049534-How-to-export-high-resolution-canvas-template-designs"
+  },
+  "show-offline-indicator-feature": {
+    "hash": "bf95699cd67b8026f5aae5af414390e443ad2e656649a67ff9b80db90e7741a1",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature"
+  },
+  "how-to-use-website-screenshot-app": {
+    "hash": "466da48a7c5712aa873849290d719db1ffa6ff9f42df6f28dde97f219f803bbb",
+    "url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-use-Website-Screenshot-app"
+  },
+  "lg-webos-signage-commercial-grade": {
+    "hash": "b1c94280a6fc1e86fd11bedce599e2e07627be529bd6ed497c3762badf2e8233",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade"
+  },
+  "is-there-storage-limit-for-my-account": {
+    "hash": "3140d1862edfcad795e3cc808baaa5c920d8ce834109623f4581b27131181204",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016253694-Is-there-storage-limit-for-my-account"
+  },
+  "show-hide-offline-indicator-on-your-player": {
+    "hash": "dab3435d551cb9a11fe9d91348094ffbd4d42d1ecad6f08e4840215bb63e76c4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12947820509971-Show-Hide-Offline-Indicator-on-your-Player"
+  },
+  "how-to-use-airtable-with-optisigns": {
+    "hash": "56ff1bde302199e4e471432c8a36b7237440db8df2913c21bf9d493462910cc7",
+    "url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns"
+  },
+  "how-to-clean-data-on-the-optisigns-android-stick": {
+    "hash": "445dd4f801a8ba10ae8ef71c36988e06cc9f314d206d741f983721cb0aa92572",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404879296403-How-to-Clean-Data-on-the-OptiSigns-Android-Stick"
+  },
+  "use-your-mac-windows-device-as-a-test-screen": {
+    "hash": "71cb85343d8a2a4f25d231f124405a831fa47a1fb6f633b757a8d5abc03e60ce",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360021856013-Use-Your-Mac-Windows-Device-as-a-Test-Screen"
+  },
+  "how-do-i-suggest-new-features-improvement": {
+    "hash": "474d4149eb7b83f35e0859531774178d590f817daf83371152fbc30ad4cb6018",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016253574-How-do-I-suggest-new-features-improvement"
+  },
+  "how-to-use-the-qr-scan-to-interact-touchless-qr-app": {
+    "hash": "275b37d1ccff343846abf09dcadd7f9f5acfd3f7819f448d8c7376355ffa0a0c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/8899727608083-How-to-use-the-QR-Scan-to-Interact-Touchless-QR-app"
+  },
+  "how-to-display-smartsheet-report-on-optisigns": {
+    "hash": "47624839cc820205b630c171e55f64eae52fb4480c2a32d9d0e1d0fb71da0ebc",
+    "url": "https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-display-SmartSheet-report-on-OptiSigns"
+  },
+  "how-to-use-the-video-stream-app": {
+    "hash": "55509c082d6116b402e66c213dfb9c737004f7d360a4d9e4ccfc7fb34a763cfe",
+    "url": "https://support.optisigns.com/hc/en-us/articles/8369526604435-How-to-use-the-Video-Stream-app"
+  },
+  "how-to-use-rtsp-streams-on-optisigns-devices": {
+    "hash": "53c6dcff2adde83a6254cb13c96df6c48648c90b83377f41dd8f419a4e4edd0b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-use-RTSP-Streams-on-OptiSigns-Devices"
+  },
+  "how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns": {
+    "hash": "9222ff240d0ede1eb47856182fcf1a1184b76a230da95bf392c0887cda5523eb",
+    "url": "https://support.optisigns.com/hc/en-us/articles/8066591235603-How-to-use-RTSP-Stream-on-Windows-or-Raspberry-Pi-via-OptiSigns"
+  },
+  "how-to-use-the-weather-alert-app": {
+    "hash": "f545739f913424da4e057339ffa8304aacc39e22e215c90642422a218c26c14c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/6757989639827-How-to-Use-the-Weather-Alert-App"
+  },
+  "how-to-use-the-cap-alert-app": {
+    "hash": "9169635d6c4b15a9b5e87f504cac57079117230e75d64fd6833cc0c60d4ab52b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App"
+  },
+  "how-to-use-matterport-app": {
+    "hash": "ed1325d7fea800a66ced7763db3f737c004f35856f36bd6e97771fdc9611b856",
+    "url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-use-Matterport-App"
+  },
+  "how-to-use-optisigns-screen-capture-app": {
+    "hash": "e51f4ddcbb6b74d3186ae6351e05b8ab097c22e3f39c084576c02fe5f72f1337",
+    "url": "https://support.optisigns.com/hc/en-us/articles/6086986017299-How-to-use-OptiSigns-Screen-Capture-app"
+  },
+  "how-to-use-advanced-website-app": {
+    "hash": "17d6f002a9bb5dcadd3eefc79c27b0462106d1766d802d246f6875acaced4a2d",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App"
+  },
+  "how-to-use-notion-app": {
+    "hash": "6aa223d00afafdc482efd6b414751f794a4a76d60e6013b8c29097d9ae6ee9c8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-use-Notion-App"
+  },
+  "how-to-use-microsoft-excel-online-with-optisigns": {
+    "hash": "54e94233fa0f27f03dfd90fc25412157ad5effd9d26a9cec6f75d97cafa24781",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-use-Microsoft-Excel-Online-with-OptiSigns"
+  },
+  "how-to-display-microsoft-teams-on-optisigns": {
+    "hash": "f260bba74d42ed7c0e672faebdbc387108c84bebd2ec98b110bc5ed7e9273f45",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns"
+  },
+  "displaying-sharepoint-sites-on-optisigns": {
+    "hash": "49fdbe68ef480c6eb18efabe7209bca32eb014c71ba0230579fa94b1c5b98dba",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns"
+  },
+  "how-to-use-microsoft-powerpoint-with-optisigns": {
+    "hash": "d02592f5503c3b7b107036447c4de4c611b09349fd1ffda1840fb9c2ee451cc8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns"
+  },
+  "how-to-use-microsoft-teams-live-app-with-optisigns": {
+    "hash": "373057488ef56b3a66696fe582fc3b253b4e0efdb24e860bfcd6eed3647a5f04",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-use-Microsoft-Teams-Live-app-with-OptiSigns"
+  },
+  "how-to-use-livestream-com-app": {
+    "hash": "45c9dfa5d82000c7bb316e1111d30b4f85244745a2441b991f4ec6ec32ae8a7f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4410655948563-How-to-use-livestream-com-app"
+  },
+  "how-to-use-the-emergency-feed-app": {
+    "hash": "c0e1919701f255b5e478dc9848700ff8cbf5f31197338feb1bd072d3c0ddef62",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App"
+  },
+  "how-to-setup-wifi-with-optisigns-admin-mobile-app-on-optisigns-pre-configured-an": {
+    "hash": "f3e5d965ab0839c956557850fa9cb1dcf1b8fa99af40dc7b679c33b42afcca13",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4409607912211-How-to-setup-WIFI-with-OptiSigns-Admin-mobile-app-on-OptiSigns-Pre-Configured-Android-Player"
+  },
+  "how-to-use-mrss-feeds-with-optisigns": {
+    "hash": "9bdd28428bd936c0b20007f046dd566d1fd9f5b8aa03cbdb15c05fb94dd88861",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4409448788499-How-to-use-MRSS-feeds-with-OptiSigns"
+  },
+  "how-to-use-calendar-mix-app": {
+    "hash": "d7f8f00e7a8476b644bbbaf2695ab3a2ee7b2641f65ec886e4e03978fe60c865",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-use-Calendar-Mix-app"
+  },
+  "how-to-use-slack-app": {
+    "hash": "7c4c3626b45ea8be371515482e0830d8aa8276d30f821da38719bf5d9b13ae09",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-use-Slack-App"
+  },
+  "how-to-use-the-microsoft-meeting-room-app": {
+    "hash": "48cb4ef2c8c4608d7eaf3a1c5700f58fa3e6c0a50303a4287dc2a3e8242d0b6c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4406214738707-How-to-Use-the-Microsoft-Meeting-Room-App"
+  },
+  "how-to-use-linkedin-app": {
+    "hash": "98334f865b8064d9ce1b380713c029d2f968e3e508635d3efe4cbb892ab66ec0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-use-LinkedIn-App"
+  },
+  "how-to-use-microsoft-teams-meeting-app-with-optisigns": {
+    "hash": "54e1d2696fbb5ff33a6f7d29e0d4b97a4251066e92ee1e6f3b1c2e33217abb8e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-use-Microsoft-Teams-Meeting-app-with-OptiSigns"
+  },
+  "how-to-use-the-social-mix-app": {
+    "hash": "8412a7cae73bf2997188f5fb7512b8025238733544ce72d664e43a3e0dd891d8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-use-the-Social-Mix-App"
+  },
+  "how-to-use-the-cbc-news-app": {
+    "hash": "137a12006c2e22441f05a57af88b07f0915cbe3153ca1c36191ffbcada2fa94e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App"
+  },
+  "how-to-use-on-this-day-app": {
+    "hash": "edbe39ffabbeff5f1320bfb562b431072a7fdc76a9676ede1a640a84e5744e77",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-use-On-This-Day-app"
+  },
+  "how-to-use-the-taggbox-display-app-with-optisigns": {
+    "hash": "8f27abe0a9f817ad91eb0c4cc3fdc0546b535c5eb9b9a816fe35b896bdb42dee",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns"
+  },
+  "how-to-use-the-mindmeister-app": {
+    "hash": "f488d2cef6de04f0ffe3b650b30062983131c058e04c9c8db0c3897c6929797c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-use-the-MindMeister-App"
+  },
+  "how-to-best-use-canva-with-optisigns": {
+    "hash": "0ea0c7febd7bd47eaa6410c6b29cb590fa6c71b746a17a158eb201a5f1eb1643",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns"
+  },
+  "how-to-use-asana-app": {
+    "hash": "0f5c18127ea5865c813dae692d13bc161f6cf8a903853abbc77ca2a321619fea",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-use-Asana-App"
+  },
+  "how-to-use-youtube-live-with-optisigns": {
+    "hash": "196aad3e44a2a62cf63d09fe9b6c913c3a74dd00b7de8818b9e1f95358f5d3b3",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500002131621-How-to-use-YouTube-Live-with-OptiSigns"
+  },
+  "how-to-use-hdmi-other-video-input-sources-in-with-optisigns": {
+    "hash": "6a2d40f91d070e301fd5adcc482cc43226e5da5e38e49e6930303c7fc7b13ddd",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500002042241-How-to-use-HDMI-other-video-input-sources-in-with-OptiSigns"
+  },
+  "how-to-use-the-local-folder-app-in-optisigns": {
+    "hash": "d85e0908d34ad28ffc9320176b6a8a15278ac60893f0eb110013434a33990a58",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns"
+  },
+  "how-to-use-youtube-live-schedule-with-optisigns": {
+    "hash": "5c63feb3f0d3ac24c60f7c1ddf2b04c6972478ea0ede72ef3639ac775211233f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns"
+  },
+  "how-to-use-youtube-channel-with-optisigns": {
+    "hash": "0a5b8bf185f32ee08e5d06a116282d88b3bd94e1d47157476cf2987b906c1df9",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360060202914-How-to-use-YouTube-Channel-with-OptiSigns"
+  },
+  "how-to-put-zendesk-dashboard-on-your-signs": {
+    "hash": "49c304949979b32565a2d72c95af8c02c810e240f0370584e31692169514ef3f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-put-ZenDesk-Dashboard-on-your-signs"
+  },
+  "how-to-use-google-docs-with-optisigns": {
+    "hash": "5eb45d175bf0003548e038965d3115367c67cdbab0a4a5aa55b506aac8dca820",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360058855273-How-to-use-Google-Docs-with-OptiSigns"
+  },
+  "how-to-use-google-sheets-with-optisigns": {
+    "hash": "f8fb7728133016a96125e01cd3541424dc47f31b0c531b588c6180df9b7c456f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns"
+  },
+  "how-to-use-scrolling-website-app": {
+    "hash": "621b38c53da3ab68f8e06e9da1e59095fc22f9c417f466f6b48689c8817abf17",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App"
+  },
+  "how-to-create-and-use-virtual-screen-app": {
+    "hash": "3b09e282b32f848844a37d24e220548887099ebaab9853d1557d95f7d563f2ea",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App"
+  },
+  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app": {
+    "hash": "ada790397dc459473de8784596dd437e450c295688786bf015c4df82cc737830",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app"
+  },
+  "how-to-use-the-flash-message-app": {
+    "hash": "eaa9b9c89413350a907d0509f1fbc98fe6538707e6151586bb0a595848f04302",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360052827713-How-to-Use-the-Flash-Message-App"
+  },
+  "how-to-use-emergency-message-alert-app": {
+    "hash": "43f29b0e8b9e3ca724ee2181c77e7383697f970015ff0b8784e09dfa51396005",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-use-Emergency-Message-Alert-App"
+  },
+  "how-to-use-the-data-studio-app": {
+    "hash": "6c2090f4dfccc563bc2309ed59b2426dbc3c9d3cbc9e861b19bb71f85c6c9496",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360052088413-How-to-Use-the-Data-Studio-App"
+  },
+  "how-to-use-facebook-recommendations-app": {
+    "hash": "1e14586119adba085da98d88ed1243d9b42f83d20aec8762b344cacb43982ce4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051317774-How-to-use-Facebook-Recommendations-App"
+  },
+  "how-to-use-instagram-business-app": {
+    "hash": "9d0c765b6ea4e4fa7fa47f224596f5e9a09b5b7be0dc4401515297a78016b3d7",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-use-Instagram-Business-App"
+  },
+  "how-to-use-trello-app": {
+    "hash": "18f64fceeec4224938618cc377615eae0dbeb6abb709cd47358c175ca9a0456f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-use-Trello-App"
+  },
+  "how-to-use-youtube-with-optisigns": {
+    "hash": "ff6cc70d152db474509a903188c2c94eb39009fb95f52aa3a06a93819f9c6fc8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns"
+  },
+  "how-to-use-follow-us-app": {
+    "hash": "670484979eb4050b0a24c955745ab75008ff288faa24ae9e2d0ca7590d27206e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App"
+  },
+  "how-to-use-facebook-video-app": {
+    "hash": "17ff231d91de01a5789f259c13b22adf9346c7ba126725022c2e649cb91a9b36",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App"
+  },
+  "how-to-use-dropbox-app": {
+    "hash": "dd18ec47a9906dcd98a09213f9103bd927a39a387e87b1cb7f69b6887bc14a29",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-use-Dropbox-App"
+  },
+  "how-to-use-the-onedrive-app": {
+    "hash": "46f84e1946299ce164785aa45ecc8befb0195ca191f1cfc861bb5390606a9103",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-use-the-OneDrive-App"
+  },
+  "how-to-use-google-trends-app": {
+    "hash": "8efd678cb19507ae564cf0f2a2293ec349cd2bcd7bfe3a2d4325da48d0ebe4ad",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App"
+  },
+  "how-to-use-walls-io-app": {
+    "hash": "f7796099845e56448439df99d695a8df813d3ca27965d282e1225be72fd7fefd",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-use-Walls-io-App"
+  },
+  "how-to-use-currency-exchange-app": {
+    "hash": "7d8ced117598633784e3e213fd185b90f063e68206e551969bc98c8b18bd9c97",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-use-Currency-Exchange-App"
+  },
+  "how-to-use-crypto-index-crypto-exchange-app": {
+    "hash": "857c94b211158bfc5f5639e10a4ad576af0bc0dc20ebd5fdced337139f362ee3",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-use-Crypto-Index-Crypto-Exchange-App"
+  },
+  "how-to-use-market-index-app": {
+    "hash": "850e412df2393f27d6309fa92056c62dede788a114ca0e54ea0eb24f58597769",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049155994-How-to-use-Market-Index-App"
+  },
+  "how-to-use-google-drive-app": {
+    "hash": "381de38874424f0a03f0d94161bbc7781233d21712f984e439160292dca7a663",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-use-Google-Drive-App"
+  },
+  "how-to-use-the-motivational-quote-app": {
+    "hash": "86f3e759b98429473b8ed4d302a0c6b112e3396ce481a3802f2b85e0d531906f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App"
+  },
+  "how-to-use-facebook-live-stream-app": {
+    "hash": "b2fbd4eafd93aafbb7878a328352ee4f0a3fa760fe65b78874b124d77c54ddf8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App"
+  },
+  "how-to-use-instagram-counter-app": {
+    "hash": "972da6d261ae162266675f5ff580d26de42174b6fdde529d59efe53eb5cb2ea6",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047501233-How-to-use-Instagram-Counter-App"
+  },
+  "how-to-use-google-traffic-app": {
+    "hash": "50d9a88fe710d9d2d09fa9a04ba9a6562569745a9139d740e92e1238b79d7632",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App"
+  },
+  "how-to-use-twitch-app": {
+    "hash": "8bebb6eb8029c9a4b5cd19cef4f85d078567bf085944753887644aa28f68b3e0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-use-Twitch-App"
+  },
+  "how-to-use-the-facebook-counter-app": {
+    "hash": "a6467b491b2ae4ea189e751e565b5735a6982be5784a5e435a0dea77269a6e9f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-use-the-Facebook-Counter-App"
+  },
+  "how-to-use-the-new-york-times-app": {
+    "hash": "f2c66227cb22ef6610af097b73fb949268ae596d42e1d9569f8c88cfd6ec0dae",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360045121233-How-to-use-the-New-York-Times-app"
+  },
+  "how-to-use-the-guardian-app": {
+    "hash": "7f616b72ae9f4e5e9640d531be474df98223c667d3051463423ef6bd4f237be4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-use-the-Guardian-App"
+  },
+  "how-to-use-the-wall-street-journal-app": {
+    "hash": "b466b0c7171bdfa161fd4fa8555640cc52986aadc62fd2753dc0c9dcfc4582c5",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360045120133-How-to-use-the-Wall-Street-Journal-App"
+  },
+  "how-to-use-the-stock-app": {
+    "hash": "6a3ede5c00531ebf4564cac8d9b9efb91d5db432efe0c270d54db5fca479e68e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App"
+  },
+  "how-to-use-the-simple-clock-app": {
+    "hash": "505eb0af40af37a55510d766925980332e1cf1e5f0f672f5a1333d2400036a15",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App"
+  },
+  "how-to-use-world-clock-app": {
+    "hash": "0e6bdcd20a5d60731edd99999f531648b626499db72cf55c955427af808fc46a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042450514-How-to-use-World-Clock-App"
+  },
+  "how-to-use-the-countup-app": {
+    "hash": "d23dfe6ca875937adb2adbad8660105891ba053801e0bbdac20faa95d3cdcb9f",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App"
+  },
+  "how-to-use-the-countdown-app": {
+    "hash": "39296478873ea642d332450bdab16b844d3168c45b9a6f07276d501d56d28494",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App"
+  },
+  "how-to-use-simple-calendar-app": {
+    "hash": "f4f433095ebf316cdb14cc3ff9dfaee33282bd152b8bfd91174e0d5d20f5d4ea",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-use-Simple-Calendar-App"
+  },
+  "how-to-use-the-techcrunch-news-app": {
+    "hash": "b9b9015017927a4ea244d9535fc3040f0175c8e6a5aa50cb32061bc7fbc26cf8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App"
+  },
+  "how-to-use-the-espn-news-app": {
+    "hash": "bad797fc6aebb9890e619edb63f0015102e6ec4ce013285389565e36084310de",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-use-the-ESPN-News-App"
+  },
+  "how-to-use-the-cnn-news-app": {
+    "hash": "087ba5fab91629dd8cb194c5fbfc9360a8e7d8610482937c225b363b03865957",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-News-App"
+  },
+  "how-to-create-and-use-qr-code-call-to-action-app": {
+    "hash": "53c97f8f33bbeaed398cb8229d7ec4b5307377413409d4c833967dcbb1e3069b",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360039264133-How-to-create-and-use-QR-Code-Call-To-Action-app"
+  },
+  "how-to-create-and-use-yelp-reviews-wall": {
+    "hash": "6f7777b4744357f5e295cd810ccbe954662781d06bd0b2649eadcd26b5230259",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-create-and-use-Yelp-Reviews-Wall"
+  },
+  "how-to-create-and-use-google-reviews-wall": {
+    "hash": "96da2ad9971942cbb5ede6022d9180f86027414fef85de918c8fecf22953e68d",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-create-and-use-Google-Reviews-Wall"
+  },
+  "how-to-use-microsoft-outlook-calendar-with-optisigns": {
+    "hash": "1542d8500c70e2d07d77b3c387706160126a88819e5b83968299d3ff55799be8",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns"
+  },
+  "how-to-use-rss-feeds-with-optisigns": {
+    "hash": "17b9931fefdf054d5364bcfbfd619fb0b812618337153684e6cc5c69f3a7a431",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-use-RSS-feeds-with-OptiSigns"
+  },
+  "how-to-use-embed-app": {
+    "hash": "108a37da131d455ea2a5400363a81de723fecbdadc4246911408a8d4b5de8653",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360035815114-How-to-use-Embed-App"
+  },
+  "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns": {
+    "hash": "71ed5b7fafa161d6e9fc3adb8ed5bb916d6418d1e6bf257cbafd93272b5a850e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns"
+  },
+  "how-to-use-the-facebook-page-app": {
+    "hash": "f7d8b6dd0f41a2915f4c3ccf79d8e92ef67464888d4bb50a6aec6de8fd15b248",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App"
+  },
+  "how-to-use-published-google-slides-with-optisigns-old-way": {
+    "hash": "0f8109e0a99d37b7ccd93c978f097c7aea74613532b316dba9b3e5155c32c2d5",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016375573-How-to-use-published-Google-Slides-with-OptiSigns-old-way"
+  },
+  "how-to-use-the-news-app": {
+    "hash": "1beadc935622ab934dfd6a629de90f5163e3fdd24797a1cca81594d24e995fec",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-use-the-News-App"
+  },
+  "how-to-use-google-calendar-with-optisigns": {
+    "hash": "1542f1df70da9d7ca2d0b1a7027468f845f0c0bd4392165e5b5aadc3d010860a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360019517953-How-to-use-Google-Calendar-with-OptiSigns"
+  },
+  "how-to-add-use-vimeo-video-with-optisigns": {
+    "hash": "4f346813be0e18a604c499417635b832bcd5f3d2563d2e86c31910a731a17097",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-add-use-Vimeo-video-with-OptiSigns"
+  },
+  "how-to-use-the-website-app-and-display-urls-on-optisigns": {
+    "hash": "55b929d2769eb7c31dfc817d4d2aec5fec28816ad7e7e3e89c082db7ba383d3e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns"
+  }
+}
